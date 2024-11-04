@@ -1,4 +1,5 @@
 backend/.git
+backend/.env
 # Dependencies
 node_modules/
 package-lock.json
