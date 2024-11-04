@@ -6,18 +6,25 @@ function App() {
   const [answer, setAnswer] = useState<string>('');
   const [loading, setLoading] = useState(false);
 
-  const handleSubmit = async (query: string, file: File | null) => {
+  const handleSubmit = async (query: string, file: File | null, mode: string) => {
     setLoading(true);
     try {
       const formData = new FormData();
       formData.append('query', query);
+      formData.append('mode', mode);  
       if (file) {
         formData.append('file', file);
       }
 
-      const response = await fetch('http://localhost:8000/api/query', {
+      const response = await fetch('http://localhost:5000/query', {
         method: 'POST',
-        body: formData,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          query: query,
+          mode: mode
+        }),
       });
 
       const data = await response.json();
