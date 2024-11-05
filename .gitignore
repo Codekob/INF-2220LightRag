@@ -1,5 +1,7 @@
-backend/.git
+
 backend/.env
+backend/graph_visual_with_neo4j.py
+
 # Dependencies
 node_modules/
 package-lock.json
@@ -44,3 +46,6 @@ desktop.ini
 # Testing
 coverage/
 .nyc_output/
+
+# tools
+tools/
