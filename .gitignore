@@ -1,6 +1,6 @@
 
-backend/.env
-backend/graph_visual_with_neo4j.py
+server/.env
+server/graph_visual_with_neo4j.py
 
 # Dependencies
 node_modules/
@@ -49,3 +49,15 @@ coverage/
 
 # tools
 tools/
+
+#server
+server/__pycache__
+server/*.egg-info
+server/dickens/
+server/book.txt
+server/lightrag-dev/
+server/.idea/
+server/dist/
+server/graph_visual_with_neo4j.py
+server/.env
+server/.venv/
