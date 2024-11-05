@@ -22,6 +22,7 @@ function App() {
 
       const data = await response.json();
       setAnswer(data.answer);
+      console.log(data);
     } catch (error) {
       console.error('Error:', error);
       setAnswer('An error occurred while processing your request.');
