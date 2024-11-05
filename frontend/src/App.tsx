@@ -21,7 +21,7 @@ function App() {
       });
 
       const data = await response.json();
-      setAnswer(data.answer);
+      setAnswer(data.data);
       console.log(data);
     } catch (error) {
       console.error('Error:', error);
