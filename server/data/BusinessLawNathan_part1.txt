@@ -1,0 +1,5429 @@
+
+
+Introduction
+Business Law is not in the Anglo-American
+system a clearly separable layer of law. It is made
+up of any and all propositions from every part
+of the constitutions, statutes and decisionsto
+which must be added administrative orders and
+decrees and legally recognizable customsthat
+may be pertinent to any business situation. And
+as the term business itself is rather expansive,
+we may start with the assumption that no proposition in the law books can be dogmatically ruled
+out of the scope of business law. For convenience, however, we may recognize at once certain divisions of the law as more or less likely to
+be involved in the everyday pursuits connected
+with earning a livelihood. We may thus set aside
+as beyond the scope of this volume the whole
+of public law (Vol. III), of criminal law (Vol. II), of
+family law (Vol. VI, Part II), of property law (Vol.
+V), and even much of torts and contracts (Vol.
+VI, Part I). There remains a good deal of the law
+of contracts, particularly the contracts of buyer
+and seller, of employer and employee, of borrower and lender, of insurer and insured, of carrier and passenger or shipper, of the parties to
+negotiable paper and of the members of a business organization. There remains, too, a great
+deal that is not simply contractual in the sense
+of being based on consent, but, rather, is dictated by authority, about the conditions of the
+market, about credit, about business organization.
+Many of these matters are covered by separate commercial codes in countries where the
+law is codified. Hence on the continent of Europe the courts, courses, books and periodicals
+devoted to Commercial Law have artificial
+boundaries within which prominent places are
+occupied by the law of Negotiable Instruments,
+Partnership and Corporations, and a great deal
+of ingenuity is developed in distinguishing between the transactions and persons that fall
+within the purview of the commercial code and
+those which are to be judged by the general
+code.
+It is no mere accident that the Anglo-American system insists that all persons are governed
+by one law, whether they be merchants or not.
+That matter was fought out in England in the
+seventeenth century. Prior to that time the Kings
+Courts had taken little notice of the disputes of
+merchants. They were handled in petty special
+courts, such as the Court of the Fairs. In the
+
+www.suspicions.info
+
+early seventeenth century Lord Coke, Chief Justice of the Kings Bench, by his decisions, his
+writing; and his political activity, succeeded in
+reducing these petty courts to insignificance and
+in transferring their jurisdiction to the Kings
+Courts, and reducing their laws to recognizable customs. As late as 1622 Gerard Malynes
+informs us that these customs apply only to
+merchants. A gentleman cannot be a party to
+commercial paper. But before the end of the
+century the courts are telling us that whoever
+signs such paper becomes ad hoc a trader.1 Between these two views lie several generations
+during which Englishmen are superseding foreigners as merchants. So the Courts Merchant
+are suppressed, but the law merchant becomes
+part of the law of the land for everybody, and
+merchants are subject to the fused law of which
+their old customs are but a part.
+This rule of one law for all was quite acceptable in the eighteenth century, particularly on
+this side of the Atlantic where it fitted well not
+only with political prejudices but also with social and economic facts. In pioneer life,
+When Adam dolve, and Eve span,
+Who was then the gentleman?
+
+1
+
+Witherley v. Sarsfield, Court of Kings Bench,
+1689. 1 Shower 125; Carthew 82. (L.B.P., p. 46.)
+2 Lincoln
+
+v. Gay, 164 Mass. 537 (1895).
+
+3 Hardin
+
+v. Grant, 54 S.W.2d 189 (1932).
+
+4
+
+For note on abbreviations, see Volume I. In
+this volume the additional abbreviation LB.P.
+refers to the authors Law in Business Problems,
+
+www.suspicions.com
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+Likewise, who was the artisan, who the
+trader, who the farmer and who the professional
+man? Obviously, the division of persons into
+such classes for legal purposes would not have
+corresponded to the facts of life. So the doctrine of the equality of all men was written into
+our fundamental law. Our constitutions have
+condemned as class legislation all attempts to
+deal with one occupation in a special way unless they showed the clearest justification or,
+better still, were phrased in generalizations
+which negatived discrimination even while they
+singled out instances on the basis of a recognizable principle.
+Still, subtle influences were at work in the
+nineteenth century to develop in our law a new
+differentiation between traders and the general
+public and among traders themselves. These influences operated principally through reading
+implications into contracts. The person regularly
+engaged in a business was understood to have
+made certain representations to the public as
+to his skill. It was one thing for a charwoman to
+sew a dress inside out, and quite another for a
+professional dressmaker to do so.2 It is one
+thing for an iceman, who genially agrees to take
+your trunk to the railroad station, to mishandle
+it, and quite another for the regular expressman to do so.3 In recent years the difference
+
+between the professional and the amateur in
+business has been emphasized by statutes
+statutes requiring licenses and sometimes examinations before one can hang out a shingle;
+statutes pertaining to particular businesses, in
+spite of their general terminology; statutes singling out particular businesses (in spite of the
+constitutional prejudice in favor of generality),
+either on the score of police power or the states
+right to regulate public utilities and other businesses affected with a public interest, or because
+of a peculiar opportunity of the state to bargain
+through its power to withhold or give conditionally a charter or franchise or other privilege. It
+is thus possible today, once more to speak not
+only of a law of business in a narrow sense, but
+also of the law of special businesses such as
+banking, public utilities, stock brokerage, real
+estate brokerage, retailing, chain stores, advertising, insurance, or even peddling, plumbing
+or conducting a beauty parlor.
+The scope of our present study is, of course,
+broader. We include the activities of the market
+place, the factory, the bank, the exchange, the
+office, the directors room, the stockholders
+meeting, and we even look into the court and
+the public administrative office when these are
+the situs of business transactions. Our order of
+procedure will deviate somewhat from that usually pursued in books on business law. Instead
+of enumerating what the law provides in the way
+of rules, standards, principles and institutions
+and leaving their application to business needs
+to be dealt with as an afterthoughtthus beginning with an answer and seeking appropriate questionswe shall proceed to ask what are
+the requirements of business and then turn to
+the law to see what it has to offer for their satisfaction. This is, of course, the order of procedure in life, when the business man brings his
+problem to the lawyer.4
+
+3
+
+Contents
+2 Introduction
+
+20 III.
+
+7 I. Business Postulates & the Law
+1.
+2.
+3.
+4.
+5.
+6.
+
+Law, a Development of Civilization
+Conditioning Forces
+Limitations upon Law for Business Ends
+Enumeration of Business Ends of Law
+Development of Ends of Law
+Business Postulates of Today
+(1) Facilitation of Transactions
+(2) Fair Market Conditions
+(3) Security of Acquisitions
+(4) Effective Enforcement and Peace
+
+National Law Library Volume 4 Business Law
+
+12 II. The Law of the Market
+
+4
+
+I. Dishonest Marketing
+1. Misrepresentation of Goods
+2. Breach of Warranty
+3. Reforms in Laws to Prevent Dishonesty
+II. Monopolistic Practices
+1. Development of Anti-monopolistic Laws
+2. Innovations in Anti-trust Laws
+(1) Contracts in Restraint of Trade
+(2) Prevention of Monopolistic Practices
+(3) Rule of Reason in Interpretation of Laws
+(4) Support by Evidence
+(5) Unfair Method of Competition
+3. Anti-competitive Legislation
+4. Extension of Unfair Competition
+to Special Cases
+(1) General Aspects of
+Unfair Competition Recognized by Law
+(2) Trade Symbols
+(a) Selling or Licensing of Trade Symbols
+(b) Preservation of Trade Names
+(c) Registration of Trade Names
+(d) Boundaries of Articles
+Covered by Trade Symbols
+(e) Similarity of Trade Symbols
+(f) Absence of a Technical Trade-mark
+(3) Names of Patented Articles
+(a) Expiration of Patent
+(b) Similarity of Manufacturers Names
+III. Licensing to Prevent Incompetence
+or Irresponsibility
+
+Suspicions News Magazine
+
+Market Facilities
+
+I.
+
+The Use of Contracts
+1. Development of the Law of Contracts
+2. Freedom of Contract
+3. In Absence of Agreement to Contrary
+4. Advantages of Standardized Contracts
+5. Disadvantages of Standardized Contracts
+II. Uniform Sales Law
+1. Standardized Contract
+of the Uniform Sales Act
+2. Special Stipulations
+in Individual Contracts of Sale
+3. Implied Warranties
+(1) Absence of Provision for the Middleman
+(2) Warranties Applicable
+to Consumer-Purchaser
+(3) Use of Trade Name and Warranty
+4. Rules Vesting Title in the Buyer
+5. Deviations from the Sales Act
+Special Sales Agreements
+III. Specially Regulated Contracts
+1. Substantive Law of Insurance
+(1) Contracts Overweighted
+against the Consumer
+(2) Weeding Out of Irresponsible
+Insurance Companies
+2. Public Utilities
+(1) Making of Rates
+(a) Fairness of Particular Rates
+(b) Remuneration to the Investors
+(2) Factors Which Constitute a Proper Rate Base
+
+26 IV.Security of Transactions
+1. Insecurity of Transactions after Completion
+(1) Illegal Selling of Anothers Property
+(2) Caveat Emptor
+(3) Limitation on Rights and Powers
+of Owner over Innocent Possessor
+2. Principles of the Law of Transactions
+(1) Negotiability of Instruments
+and Its Extensions
+(2) Agency and Its Extensions
+(3) Transfer to Innocent Purchaser of
+Voidable Title or One Having Incumbrance
+(4) Recording of Documents
+(5) Presumption of Regularity
+of Acts in Business
+
+www.suspicions.info
+
+31 V. Business Property
+1. Business Property Defined
+2. Protection of Business Property
+(1) Trade-marks and Trade Names
+(2) Existing Contracts
+(3) Protection of Goodwill
+(a) Definition of Goodwill
+(b) Agreements in the Sale
+of a Business or Practice
+(c) Agreement Not to Compete
+(d) Protection of Goodwill
+from Agent or Employee
+(e) Protection from the Middleman; Refills
+(4) Intangibles As Business Assets
+(a) Recognition by Law
+(b) Situs for Taxation of Intangibles
+(c) Valuation of Intangibles
+
+35 VI. Credit
+I.
+
+II. Devices for Safeguarding and Facilitating Credit
+1. Fundamental Ideas in Safeguarding Credit
+2. Credit from the Business Point of View
+(1) Personal Security
+(a) Guaranty
+(b) Suretyship
+(c) Endorsement
+or Other Signing of Commercial Paper
+(d) Indemnity and Del Credere Agency
+(2) Real Security
+(a) Possessory Holds
+(b) Title Holds
+(c) Real Estate Mortgages
+(d) Chattel Mortgage
+(e) Lease with Privilege of Purchase
+(f) Trust Receipt
+(g) Mechanics Lien
+3. Negotiable Instruments
+(1) Promissory Notes
+(2) Checks
+
+50 VIII. Organization
+I.
+
+Desiderata
+1. Motives of Unification
+2. Motives of isolation
+3. Endurance of a Business Organization . .
+4. Methods of Organization
+5. Problems of Organization
+
+61 IX.Organization (Continued)
+II. The Historic Legal Materials
+1. Devices Used in Organization
+(1) Agency
+(2) Contract
+(3) Partnership
+(4) Corporation
+(5) Trusteeship
+2. Modification of Organization Devices .
+3. Inter-unital Organizations
+4. Business Mans versus
+Lawyers Organization
+
+Ü
+www.suspicions.com
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+Ordinary Enforcement Machinery
+1. Procedural Law and Business
+2. Action in Court
+(1) Steps in Procedure
+(2) Pleading
+(3) The Jury
+(4) Evidence
+(a) Three Principles
+(b) The Principles of Competency .
+3. Slow Legal Procedure
+(1) Advantages and Disadvantages
+(2) Cumbersome Machinery
+for Collecting Judgments
+(a) Exemptions
+(b) Bankruptcy
+4. To Make Obligations Secure
+(1) Contractual Modification
+of Procedural Law
+(2) Resort to Arbitration
+
+40 VII. Credit (Continued)
+
+5
+
+65 X. Organization (Continued)
+III. Substantive Law
+1. Formation of the Relations
+(1) Agency
+(2) Partnership
+(3) Business Trust
+(4) Corporation
+2. The External Relations
+(1) Responsibility in Agency
+(a) Liability of Principal in Contract
+(b) Masters Liability in Tort
+(c) Distinction between
+Principals Liability and Masters
+(d) Undisclosed Principal
+(2) Liability in Partnership
+(3) Liability of a Business Trust
+(4) Liability of a Corporation
+3. The Internal Relations
+(1) Simple Contract
+(2) Principal and Agent
+(3) Partnership
+(4) Business Trust
+(5) Corporation
+4. Readjustment and Dissolution
+(1) Contractual Method
+of Reorganization and Dissolution
+(2) Dissolution of Corporations
+(3) Dissolution of Partnerships
+(4) Dissolution of Trusts
+(5) Terminative or Conditional Contract
+(6) Irrevocable Agency of Partnership .
+(7) Termination by Law
+(8) Bases for Planning Termination .
+(9) Federal Bankruptcy Law
+(10) The Equities
+
+1. Development of Business Law
+2. Future Trend of Law Development
+(1) Established Codes of Business Law .
+(2) Nation-wide Similarity
+of Business Legislation
+(a) Statutory Waves .
+(b) Federal Legislation
+(c) Federal Influences
+on State Legislation
+(d) Federal Courts and the Common Law
+3. Time Element and Business Law
+I. Labor Law
+1. National Labor Relations Board
+2. Collective Bargaining
+II. Administrative Regulations in Business.
+1. Development of Government Regulation .
+2. Interpretation of Business Regulation
+by Government
+III. The Future of Corporations
+1. Blind Spots in Corporate Structure
+2. Divergence between Corporate Fiction
+and Business Fact
+3. Substitutes for Incorporation
+4. Federal Incorporation and Licensing
+
+Appendix - Principal Uniform Laws
+Affecting Business Transactions
+85 Negotiable Instruments Law
+99 Uniform Partnership Act
+108 Uniform Limited Partnership Act
+
+National Law Library Volume 4 Business Law
+
+6
+
+77 XI. Frontiers of Business Law
+
+113 Uniform Sales Act
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+Chapter I
+
+Business Postulates
+& the Law
+in a shop with reasonable safety,
+and although we occasionally
+read of holdups showing the danger of such an assumption, we
+go on making it. Why? Is it because of our faith in the habits
+of mankind, or in the workings
+of the legal system, or some doctrine of chance, or because of our
+own recklessness, or a combination of all of these? The question
+becomes infinitely more complicated if, for such elementary human interests as security from
+holdups, we substitute the vast
+network of relations that we call
+the credit system, which is another of the postulates of modem
+business.
+Without going far into the
+analysis of the basis of any one
+of these expectations, we may
+venture two propositions: first,
+that the legal system of any given
+time or place contributes heavily
+to the fulfillment of our expectations; and second, that the legal
+system is by no means alone in
+this function. The first of these
+propositions is, of course, generally taken for granted. It is our
+purpose here not to prove it, but
+to find out just how the law
+comes to the aid of the business
+world. The second proposition,
+however, is very generally overlooked. Legal specialists talk oc-
+
+www.suspicions.com
+
+casionally as if the sole deterrent
+from crime in the world today
+were criminal law.1 Little wonder, then, that the layman looks
+to the law to accomplish singlehanded the greatest of wonders,
+and in turn criticizes the law for
+its failure to do that which he
+gratuitously assumes, in the first
+place, it can do. When anything
+goes wrong he says: There
+ought to be a law against this or
+that. He expects a legislative fiat
+to make men moral, to make men
+sober, to make men efficient. We
+must, therefore, emphasize the
+limits of effective legal action.2
+When it actually was necessary
+to look behind every tree for a
+possible Indian, the best code in
+the world could not have done
+away with that necessity any
+more than we can today put an
+end to war by such a simple device as declaring it unlawful. Yet
+with the aid of law and a hundred other elements we have succeeded in reaching a measure of
+internal peace and we may hope
+to achieve a corresponding measure of world peace eventually.
+The point is that law does not
+and cannot work alone. The development of law is but a phase
+of the development of civilization. And when we speak of the
+part played by law in the satisfy-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+1. Law,
+a Development of Civilization
+As we go about our daily
+business we take a great deal for
+granted. If we had to look behind
+every tree, figuratively or literally,
+for a lurking Indian, we could
+hardly do the work of the modem
+world. We assume a high degree
+of safety; we assume a high degree of human trustworthiness;
+we assume that those about us
+will act in a reasonable and fairly
+predictable manner; and the vast
+majority of these assumptions
+are well founded. At least, we are
+not often disappointed.
+If we analyze these expectations or postulates on which
+modern business is based, we
+find very readily that they are
+simple only to the simple
+minded. We discover that they
+differ not only in different times
+and places and among different
+races of men, but that they are
+by no means all equally safe assumptions nor are they founded
+on identical or even similar
+bases. In fact, the explanation of
+even the simplest and most obvious of these assumptions,
+upon analysis, becomes a hopelessly complex problem of the
+social and natural sciences. We
+take it for granted, for example,
+that a man can expose his wares
+
+7
+
+National Law Library Volume 4 Business Law
+
+ing of the postulates of business,
+we must bear in mind that it does
+not satisfy those postulates
+single-handed or exclusively. It
+is neither without allies nor without rivals.
+
+8
+
+2. Conditioning Forces
+Nor is it without conditioning forces. Just as the business
+activities of the world take for
+granted certain conditions, including the cooperation of the
+law, the law itself has certain
+postulates. The current legal system assumes, for example, that
+people take a certain amount of
+initiative in turning the wheels
+of justice and, on the other hand,
+that they will restrain themselves
+just so much from interfering
+with this machinery. The system
+must break down completely
+and does occasionally even in
+this countrynot only where initiative is lacking because of indifference or fear, but also where
+masked mobs, or the parties to
+a feud, or even willful juries
+take justice into their own
+hands. The law, furthermore, presupposes a certain degree of
+ability to understand the lawit
+has been found futile at several
+stages of history to transfer a
+highly developed code to a crude
+people. A law that penalized lying to the very limit would hardly
+work in a community of confirmed liars. Our primary concern, however, is not with what
+a system of law must take for
+grantedthough we cannot ignore the bearing of this question
+on the laws limitationsbut
+with what business expects and
+demands from the law.
+3. Limitations upon Law
+for Business Ends
+Furthermore, we must recognize that other aspects of our
+life, besides the business aspect,
+make demands upon the law. In
+the main, these demands are fortunately not only consistent with
+but identical with the demands
+
+of the business world. Peace, fair
+and honest dealings, and the enforcement of obligations, for example, might be demanded in
+the name of society, organized
+on its political side, just as
+readily as by that same society
+thought of as a business unit.
+There are, of course, differences
+of emphasis, occasional differences in the limitations set, and
+even rare contradictions. Thus,
+business if left to itself might
+never have invented homestead
+exemptions as a limitation to enforcement laws. It is conceivable,
+but not quite probable, that the
+enforcement of debts by means
+of imprisonment might have
+been abolished by the business
+world as unprofitable in the long
+run, without the aid of the
+humanitarian considerations
+that were perhaps uppermost in
+the actual abolition of imprisonment for debt. So far, however,
+as we find conflicting demands
+made upon the law in the name
+of human interests other than
+business, we shall have to take
+them into consideration as limitations upon the use of law for
+business ends.
+4. Enumeration
+of Business Ends of Law
+What, then, are these business ends? Or, to resume the formal question with which we began, what does the business
+world demand or more or less
+thoughtlessly expect of the law
+today? It has been demonstrated
+with abundant learning by Dean
+Pound that the end of law,
+viewed both practically and theoretically, has been developing
+throughout the course of legal
+history.3 The earliest end discernible was a mere attempt to
+keep the peace. In later states we
+encounter first the maintenance
+of an actual status quo and later
+the struggle for some ideal set
+of relations known as equity or
+justice or natural fights. Today
+we are stressing a fourth type of
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+end, and emphasis is shifted to
+the satisfaction of human wants
+and particularly to the opportunity for development.
+It must be remembered, however, that in all of these developments the earlier ends of the law
+have by no means been abandoned as the later ones have
+emerged. The maintenance of
+peace, the security of acquisitions, the approximation of what
+appears to society for the time
+being as natural justice or fairness, stand side by side today
+with the insuring of human opportunities for development and
+advancement. If we would restate
+these general ends of the law
+more narrowly in terms of what
+the business world seeks, we
+should still have to enumerate as
+major ends: (1) peace and effective enforcement; (2) security of
+acquisitions; (3) fair conditions
+in the market, and, in addition
+to these, (4) the facilitation of
+transactions. Of course, the
+meaning of all the older terms
+has developed very materially as
+time has gone on. The peace of
+the Anglo-Saxon world, such as
+it was, would not suffice for the
+needs of the modern business
+world. Neither would the enforcement machinery of the Middle
+Ages. The kinds of acquisitions
+that may be deemed the subject
+of legal protection have multiplied and are changing even today. Some of the most important
+developments of the law of recent years are concerned with
+the growing concept of fair conditions in the market. But in the
+main, it is true that the principal
+accomplishment of the last half
+century in the realm of business
+law has been the development of
+facilities and positive opportunities for the specific transactions
+that constitute business.
+5. Development
+of Ends of Law
+All these accomplishments of
+the law are so thoroughly and
+
+6. Business Postulates
+of Today
+For the purpose of fitting
+these postulates into the picture
+of business as it is conducted
+today, we might pursue the opposite order to that of their historical development and consider some characteristics of the
+need today for (1) facilitation of
+transactions, (2) fair market conditions, (3) security of acquisitions, and (4) effective enforcement and peace.
+(1) FACILITATION OF TRANSACTIONS. Typical of the transactions for which we expect the
+
+law to furnish ready frameworks
+are those transactions that have
+to do with the organization of the
+business world. Business needs
+not merely schemes for summarizing the relations existing between people within a particular
+business enterprisesuch as
+agency, partnership, corporation, or Massachusetts trust
+but also those devices that bring
+together cooperating parts of a
+business, however separated
+they may at first sight seem.
+There is every gradation between
+the hand-to-mouth buying of raw
+materials by one plant from another, through more comprehensive contracts for seasons and
+through leases, to the complete
+control or even ownership of the
+plant furnishing the raw materials. Likewise, on the distributing
+side, a vast variety of relations
+may exist between the producers and those engaged in the
+various steps of marketing. For
+all of these relations the law is
+called upon to furnish a fitting
+framework and under the pressure of American life the law is
+just as likely to be called upon
+for mass production of frameworks of a more or less standardized nature as our factories are
+to give mass production of standardized machinery. Business
+presents numerous novel problems of organization calling for
+most ingenious massing of traditional devices. Thus, where living conditions in a great city produce vast buildings in which it
+becomes desirable to sell individual apartments to families,
+the organization of the business
+side of the scheme may involve
+incorporation with more or less
+complicated adjustment of ratios
+of control, ownership, return,
+and risks which may not correspond exactly to the amount of
+investment. It may involve further peculiar types of leases or
+deeds or mortgages. The financing may involve mortgages and
+trusteeship and the issuance of
+
+www.suspicions.com
+
+bonds or trust certificates in
+combinations that had never
+been thought of before.
+The credit devices of the
+modern world must also respond
+very delicately to peculiar needs
+in particular situations. There is
+a constant problem, for example,
+to strike a balance somewhere
+between the safety of the loan
+and the freedom of the business
+to which the loan is made from
+interference. In a general way,
+where real security is used the
+more possessory a credit device
+is the simpler and safer it seems,
+but at the same time the more
+likely it is to interfere with the
+use of things in the ordinary
+course of business. The vast series of new problems connected
+with the financing of installment
+sales, of which the most prominent example, of course, has
+been automobile financing, will
+illustrate the type of call that is
+made upon the law for new machinery or for new combinations
+of the old machinery of credit.4
+There is, of course, a vast
+variety of more or less typical
+transactions that make up the
+bulk of everyday business. The
+type of framework furnished for
+them is perhaps best illustrated
+in our statutes standardizing
+contracts of sale, the contracts
+involved in negotiable instruments, insurance contracts, employment contracts, and many
+others, by stipulating what the
+details shall be either in the absence of contrary stipulation or
+any agreement to the contrary
+notwithstanding.5 New varieties
+of transactions are constantly
+emerging for which new types of
+contracts are required. Thus,
+with the coming of new modes
+of transportation, whether we
+turn to the period of the introduction of the steam railroad or
+that of the motor bus or that of
+aviation, new types of receipts
+and agreements, with new
+apportionments of risks, become
+recognized as standard in the
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+readily taken for granted that it
+is somewhat difficult for us to
+realize that, in the Anglo-American system of law, one need go
+back only a few hundred years
+to reach a period in which the
+kings courts were not interested
+in the private disputes of citizens
+so long as they did not affect the
+kings revenue or the kings
+peace. Of course, the allusion to
+the kings revenue and the kings
+peace as the formal basis for taking jurisdiction over private disputes and enforcing private
+claims was for a long time a mere
+pretense, a fiction of the law. But
+the fact that such a fiction had
+to be used at the beginning of
+modem times should remind us
+that, what we take for granted
+today when we expect this or
+that of the law, was by no means
+taken for granted at all stages in
+our legal history; that it is by no
+means taken for granted in all
+parts of the world today, at least
+in the same way; and that we
+cannot be sure that we have
+reached the limit of possible demands to be made upon law in
+the furnishing of aids for the conduct of business. We are, in other
+words, dealing with a situation
+that is constantly developing,
+constantly being experimented
+with, and not at all with a preordained system of natural law.
+
+9
+
+National Law Library Volume 4 Business Law
+
+law. In general, the tendency of
+business is to require devices for
+the facilitationand constantly
+for the greater facilitationof a
+widening circle of business activities. And the law responds,
+sometimes through the ingenuity of the lawyers in adapting and
+combining the old legal devices,
+but occasionally also, with the
+aid of legislation, by the creation
+of new devices.
+
+10
+
+(2) FAIR MARKET CONDITIONS. The market conditions
+that the business world demands
+of the law have undergone a complete transformation since the
+days of Lord Coke. The picture
+of the buyer before the eyes of
+the law has ceased to be that of
+a very cautious, designing sort
+of person well able to take care
+of himself. On the contrary, every effort is made by means of
+the licensing of dealers and
+manufacturers, by means of the
+registration and inspection of
+products, by blue sky laws, by
+imposing penalties for misbranding, adulteration, and
+fraudulent advertising, by safeguarding competition and condemning unfair methods of doing business, to make the market safe for purchasers. Let us
+contrast the conditions in older
+systems of law that looked rather
+to the protection of the seller. In
+Roman law, for example, there
+developed the idea that a seller
+could repudiate an extremely
+bad bargain though there was no
+corresponding provision for a
+disillusioned buyer.6 Such law
+was, of course, appropriate in a
+comparatively non-commercial
+society where the selling of
+goods outside of the ordinary
+course of business was a sign of
+distress on the part of the more
+or less unwilling and unfortunate
+owner. The buyer was looked
+upon as a wealthy person taking
+advantage of the distress of his
+neighbor, much as if he were
+lending him money for usury.
+
+This picture has changed completely. The buyer represents
+today the average member of
+society, while the seller is looked
+upon as the party better able to
+take care of himself. The development of the modern point of
+view in recent times is illustrated
+in the development of the law of
+implied warranties of quality7 or
+of title8 and the disappearance
+to that extent of caveat emptor.
+The particular details as to
+which the public puts a buyer
+under its protection are, of
+course, constantly changing.
+Today the danger is from misbranding, false advertising, inadequately described securities.
+Yesterday the emphasis was
+rather on the danger of lack of
+skill in professional men, mechanics, and others who have
+been subjected to licensing laws.
+Tomorrow the dangers may be
+different and the emphasis may
+be shifted to prevent the abuse
+of high-powered salesmanship
+accompanied by intriguing
+installment devices.
+(3) SECURITY OF ACQUISITIONS. The idea of security of
+acquisitions is, of course, one of
+the most important and best developed in the law. It not only fills
+the pages discussing real and
+personal property, but it is the
+motive behind much of the criminal law, the tort law, the family
+law and the constitutional law of
+this country. In fact, the law is
+frequently taunted with the
+charge of setting property
+rights above human rights.
+What is really meant is the setting out more clearly of rights in
+tangible things than rights that
+seem to have less and less to do
+with tangible things. Medieval
+law was so limited in its property
+concepts that it could not conceive of transferring such in-corporeal rights as the power of appointment to a church office
+without some such act as handing over the knob of the church
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+door. But as time has gone on,
+the law has progressively overcome this dread of intangibles
+and within the field of business
+has accorded the treatment formerly reserved for rights in
+physical things to such new
+types of property as goodwill,
+patents, trade-marks, trade
+name, copyright, going-concern
+value, business reputation, interest in existing contracts, expectancies of various kinds and freedom of action. In addition, it has
+curtailed the principle of property protection as formerly understood by developing another
+type of interest, namely, the interest in security of transactions.
+We shall find many instances in
+which a bona fide purchaser acting in the ordinary course of
+business has his new acquisition
+protected in preference to the
+older owner who, though equally
+innocent of wrong, has failed to
+take the necessary steps to warn
+strangers of the nature of his
+claim. The varieties of business
+interests calling for protections
+are infinite.
+(4) EFFECTIVE ENFORCEMENT
+AND PEACE. What has been said
+here at some length regarding
+the modern development of the
+old concept of security of acquisitions applies, mutatis mutandis, to the still older postulate of
+peace. This concept has grown
+to include a great deal more than
+the official ending of disputes.
+The machinery of enforcement
+includes not only litigation but
+also arbitration and conciliation,
+various preventive devices for
+anticipating both, and an increasing quantity of contractual
+control over adjective law.9 The
+kind and degree of peace that are
+essential for commercial prosperity at this age are, of course,
+vastly different from that which
+enabled savage tribes to establish trading posts to which they
+would alternately bring their
+goods and from which each
+
+would recede a safe distance
+while the other was present. But
+it also differs in smaller measure
+from the condition of commercial peace that was considered
+adequate in the pioneer days of
+this country, when horse traders
+did not feel thoroughly equipped
+for their business transactions
+unless adequately armed. Nor is
+the industrial peace of the early
+days of unionism in this country,
+when strikes were notoriously
+likely to be accompanied by violence, a fair picture of the business needs of these days of
+keener competition, greater publicity, and more intense interest
+in industrial disputes on the part
+of the legislature.
+Perhaps the nature of the industrial and commercial peace of
+today may best be illustrated by
+reference to the exaltation of
+due course to the level of a
+major principle by which transactions are to be judged. It is not
+only, as already indicated, that
+that which is done in due course
+is made to stand. The converse
+
+is equally true. It is on this basis
+that a deviation from the simple,
+ordinary course of business
+comes to be condemned by the
+law. Thus, there was until recently nothing unlawful about a
+preferential payment of a debt by
+an insolvent. Business condemned the practice and now the
+National Bankruptcy Act incorporates the business mans point
+of view. There was nothing illegal until recently in a tradesmans act of selling goods outside of the ordinary course of
+business. The business conception of due course has, however,
+in spite of considerable resistance, been written into the bulk
+sales laws of many jurisdictions.
+Many acts that are coming to be
+recognized as unfair methods of
+competition are, in the final
+analysis, condemned because
+they are contrary to the ordinary
+established course of doing
+thingsbreaches of the peace as
+the modern business world formulates its requirements of commercial peace.
+
+1Cf.
+
+Train, The Prisoner at the
+Bar, 1907, Chapter 1.
+2
+
+Cf. Pound, The Limits of
+Effective Legal Action, 22 Pa. Bar
+Assn Rep. 221 (1916), A. B. A. J.
+55 (1916); 27 Internat. J. of Ethics
+150 (1916).
+3
+
+Compare the chapter
+entitled The End of Law in
+Pound, Outline of the Course in
+Jurisprudence, 3d ed., 1920, 4055, giving full references, and c. 2,
+in Pound, An Introduction to the
+Philosophy of Law, 1922, reproducing the articles in 27 Harv. L.
+Rev. 195, 605 (1914), and 30 ibid.
+201 (1917).
+48
+
+Corn. L. Q. 199, 210
+
+(1923).
+5 27
+
+Yale L. J. 34 (1917).
+
+6
+
+Girard, Manuel Elementaire
+de Droit Romain, 6th ed., 1918,
+552.
+7 Williston, Contracts,
+
+2d ed.,
+
+1936, IV, Sec. 983.
+8 Ibid., Sec.
+
+976.
+
+9
+
+www.suspicions.com
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+Isaacs, Contractual Control
+Over Adjective Law, W. Va. L. Q. 1
+(1922); same, Recent Developments, 83 U. of Pa. Law Rev. 177
+(1934).
+
+11
+
+Chapter II
+
+The Law
+of the Market
+
+National Law Library Volume 4 Business Law
+
+I. DISHONEST MARKETING
+
+12
+
+1. Misrepresentations
+of Goods
+When the President of the
+United States made the now famous pronouncement, This proposal adds to the ancient doctrine of caveat emptor, the further doctrine, let the seller also
+beware,1 was he setting a new
+force in motion or was he simply
+taking his place in a long line of
+legal reformers bent on making
+the market safe for the buyer? To
+answer this question it is necessary only to enumerate the principles to which the overreached
+buyer could resort before the
+New Deal was written into the
+statute books. In the first place,
+if the misrepresentation from
+which he suffered amounted to
+fraud- that is, if it was a misrepresentation of past or present fact,
+made knowingly or with reckless
+disregard of truth or falsity, under conditions where it tended
+to mislead and did mislead the
+victim to his hurt the law
+pounced down heavily upon the
+seller. He could in all probability
+be prosecuted for one of the
+
+crimes of which fraud is an ingredient: false labeling, false
+advertising, obtaining goods
+under false pretense, larceny by
+trick, and so on. Again, he could
+be sued for damages by the defrauded party and probably
+forced to pay smart money. The
+contract itself could be set aside
+and, under appropriate decrees
+of a court of equity, the parties
+restored to status quo. Or the
+contract could be ignored as a
+nullity if that practice best served
+the needs of the victim. Finally,
+the defrauder might find himself
+face to face with the summary
+procedure of some arm of preventive justice: a licensing commission ready to suspend his
+trading license, an aroused inspector ready to impound or destroy or brand his goods, a publicity bureau ready to announce
+his iniquity to the world.
+2. Breach of Warranty
+Even if the misrepresentation
+did not technically amount to
+fraud, the lying vendor would not
+get off with impunity. Though he
+may have innocently believed his
+own lie, he may have been guilty
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+of a breach of an express warranty. An express warranty is
+defined in the Uniform Sales Act
+as any affirmation of fact or any
+promise by the seller relating to
+the goods... if the natural tendency of such affirmation or
+promise is to induce the buyer
+to purchase the goods.2 There
+are also implied warranties
+where nothing is said. The consequences of a breach of warranty, which is more easily
+proved in practice than is fraud,
+are, excepting for the penalties
+and quasi-penalties, the same as
+those of fraud. The disappointed
+buyer may keep the goods and
+sue for damages, or call the bargain off, or take other steps to
+restore the status quo. Obviously
+the law did not allow so much
+lying as the old by-word suggested.
+3. Reforms in Laws to
+Prevent Dishonesty
+Nevertheless, there were and
+are possibilities of unpunished
+dishonesty in the market place,
+some of which can be more effectively coped with as time goes
+on. The reforms of the last gen-
+
+for what he says or otherwise
+represents to be true under fraud
+and warranty laws that take him
+at his word. In addition, there are
+numerous laws altogether preventing the sale of harmful
+drugs, or at least putting dangerous ones subject to the requirement of a physicians prescription. There are, furthermore,
+standards of purity established
+by authority, a comprehensive
+United States Pharmacopoeia.
+It would be a mistake, however, to attribute all this change
+to the internal workings of the
+law. The impetus has come from
+many sources, including educational campaigns conducted by
+medical associations, magazine
+publishers, Better Business Bureaus, government departments.
+The important point for our consideration is that the law of the
+market has been able to respond
+to the demand for a higher standard of honesty and has potentialities within it for still higher
+standards, as society becomes
+ready for them. The fraud formula must remain elastic.
+What has been said of the
+prevention of misrepresentation
+applies with little change to the
+prevention of other undesirable
+conditions and practices in the
+market: monopolistic conditions,
+unfair competition, incompetence, lack of responsibility, and
+in general one-sidedness or a
+loading of factors against the
+buyer. Still, each of these tasks
+of the law has its own interesting peculiarities as well as historic accidents meriting separate
+attention.
+II. MONOPOLISTIC
+PRACTICES.
+1. Development
+of Anti-monopolistic Laws
+The laws against monopoly
+are very old. In the Middle Ages
+there were laws against forestalling, engrossing and regrat-
+
+www.suspicions.com
+
+ing, not to mention several subvarieties, the gist of which was
+interference with the opportunities of the citizens of a town to
+get their needs provided for in
+their regular market. The injury
+resulting to one citizen from
+anothers simple trick of buying
+up the days supply of foodstuffs
+on its way to town was a palpable
+one, to be combated regardless
+of any theory of the function of
+competition in society.3 Actually,
+medieval society did not rely on
+competition to set the right price
+on all its goods and services. It
+did not hesitate to name a just
+price and a fair wage by decree.
+When we turn, however, to the
+late nineteenth century revival of
+interest in anti-monopoly laws,
+we find a society permeated with
+the notion that competition is in
+itself good, the very life of trade,
+and on the whole perhaps adequate for its effective regulation
+provided that artificial interference with its workings is not tolerated. It is no part of the function of the law to propound or to
+correct economic theories, but it
+must serve as the vehicle
+through which a society tries to
+put its theory into practice.
+Since the Sherman Anti-Trust
+Act was passed in 1890 there has
+been an increasing tendency to
+supplement its workings by reliance on regulation, including
+price fixing, notably but not exclusively in the fields of railroad
+and public utility law. In the National Industrial Recovery Act of
+1933, held unconstitutional on
+other grounds,4 there was even
+a suspension of the workings of
+the anti-trust laws in favor of
+detailed regulation calculated to
+assure the public of the fair treatment that was the, primary objective of the anti-trust laws. With
+a changing economic philosophy, or at least a changing degree of faith in the efficacy of
+competition, we may expect
+more experimental legislation in
+the direction of regulation. The
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+eration may be cited to indicate
+the current tendencies. The most
+outstanding of these are: First,
+a readier assumption by courts
+and juries that lies tend to mislead and do mislead. Second, a
+host of statutes on phases of
+fraud covering such subjects as
+false labeling and advertising;
+the plain marking of substitutes,
+imitations, artificial coloring or
+flavoring, the country of origin
+of goods; the publishing of the
+essential facts pertaining to securities offered for sale; presumptions and burdens of proof
+in certain cases, and a tightening of procedure and a stiffening of penalties in others. Third,
+the intensive development of
+preventive measures against
+fraud, including licensing of persons, inspection of products,
+publicity, and the extra-judicial
+administrative machinery that
+goes with preventive justice.
+To illustrate all of these tendencies we need only consider
+the recent history of patent medicine advertising. One need not
+be very old to remember when
+the patent medicine man made
+unlimited claims for his concoctions of alcohol, herbs and flavoring matter. No one was expected to take him literally,
+whether he barked about his
+elixir from the tail of his circus
+wagon or printed startling pictures labeled Before Taking and
+After Taking in the advertising
+columns of the rural magazine.
+Hence, two essential elements of
+fraud were missing: the tendency
+to mislead and the actual misleading. The exaggerations were
+glossed over as dealers puffing.
+Today the vendor of patent medicines has to contend with a Federal Pure Foods and Drugs Act,
+quite likely to be strengthened,
+a Federal Trade Commission,
+fraud orders of the Post Office
+Department, the scrutiny of the
+radio licensing authorities, the
+state advertising laws, and direct
+responsibility, criminal and civil,
+
+13
+
+whole agitation for a planned
+economy is based on this loss of
+faith in the efficacy of competition as a planning force, a
+faith which in the nineteenth century was rationalized by paralleling it with the theory of evolution.
+
+National Law Library Volume 4 Business Law
+
+2. Innovations
+in Anti-trust Laws
+Remembering, then, that the
+Sherman Act speaks in terms of
+1890, let us examine its innovations.
+
+14
+
+(1) CONTRACTS IN RESTRAINT OF TRADE. Contracts
+in restraint of trade were void
+according to common law.
+Whether combinations in restraint of trade effected otherwise than by contractfor example, by means of trusteeship
+were void was debatable, but we
+may assume that even without
+the aid of statute the law would
+have reached them. Just how serious the restraint had to be in
+order to be obnoxious to the law
+was debated anew with each case
+that reached the courts. Here,
+too, we may assume a rule of reason would have developed without the aid of a statute. But to
+declare an arrangement void is
+to use only one of the sanctions
+of the law. It does not subject the
+perpetrators to a penalty, it does
+not lay them open to an action
+for damages at the instance of
+those whom they have hurt, it
+does not provide for undoing
+what they have done. These sanctions were provided by the
+Sherman Act.
+(2) PREVENTION OF MONOPOLISTIC PRACTICES. It was
+not until 1914 that the modern
+approach of prevention was applied in the Federal anti-trust
+laws. In that year not only did the
+Clayton Act attempt to nip evil
+in the bud by prohibiting practices found likely to contribute
+to the upbuilding of monopolies,
+
+but the Federal Trade Commission Act provided for the watchfulness of a commission with
+wide discretion to preserve the
+proper workings of the competitive system.
+(3) RULE OF REASON IN INTERPRETATION OF LAWS. The interpretation of the Federal antitrust act and of the state acts
+modeled after it has led to a series of important Supreme Court
+decisions that go beyond the
+mere verbal logic of ordinary
+statutory interpretation. They
+have worked out the principle
+that it is the substance and not
+the form that counts in determining whether a particular combination is illegal. Furthermore,
+they have established the rule of
+reason, which, stripped of its
+verbiage, merely means that by
+no means every contract which
+restrains trade or limits competition is obnoxious (for in a measure every contract does so), and
+that the only standard which the
+court can read into the statute
+without arbitrariness is the general standard of reasonableness.
+(4) SUPPORT BY EVIDENCE.
+In reviewing the findings of the
+Federal Trade Commission the
+court has generally felt unable to
+question its finding of fact because of the peculiar wording of
+the statute which provides that
+such findings shall stand if supported by evidence. Had it said
+the evidence, the court might
+have been called upon to weigh
+the evidence itself, but, as it is,
+the only question before the
+court is whether there was any
+evidence to support the finding.
+It would be a sorry case indeed
+if there were none at all.
+The significance of this limitation on the courts is frequently
+overlooked by law writers as well
+as laymen in interpreting decisions under the Federal Trade
+Commission Act. Thus, in the
+famous Beech-Nut case,5 which
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+involved the systematic attempt
+of a manufacturer to thwart price
+cutters (the very aim that is now
+upheld by the Miller-Tydings Act6
+and similar legislation in most of
+our states7), the court had before
+it the finding of the Commission
+that the manufacturer was guilty
+of participating in some kind of
+a conspiracy in restraint of trade,
+and there was little for the court
+to do with that question of fact
+officially settled.
+(5) UNFAIR METHOD OF
+COMPETITION. Partly as a result
+of this control given to the Commission, but in part at least with
+the encouragement of the court,
+the term unfair method of competition, the subject of the prohibition of the important fifth
+section of the Act, has come to
+be looked upon rather paradoxically as the equivalent of undue
+interference with competition. In
+other words, a clause which, by
+necessary implication, recognizes the possibility that there
+may be bad competition as well
+as good, becomes submerged in
+the philosophy which upholds
+competition for its own sake. In
+the Beech-Nut case, already alluded to, Mr. Justice Holmes is a
+voice crying in the wilderness
+when he says that the practices
+complained of are neither unfair
+nor competitive. Thus, the
+phrase becomes a blanket authority for enumerating objectionable practicesobjectionable principally because they
+tend to foster monopoly and because they involve fraud upon
+the publicand put them under
+an administrative ban.
+It was partly owing to this
+confusion of terms and the trade
+practice conferences that grew
+out of it, that the unfortunate
+National Industrial Recovery Act
+proposed Codes of Fair Competition and that the term was
+promptly understood by administrators and business men as
+meaning codes prescribing and
+
+proscribing practices with little
+or no thought of competition.
+Even the Supreme Court in the
+Schechter case 8 expressed
+doubt, in the face of such practical interpretation, whether the
+meaning of the phrase had any
+logical connection with the
+meanings of the words that composed it. Finally, to remove all
+doubt, the language has been
+amended in the Federal Trade
+Commission Act so as to include
+any unfair method of competition or unfair or deceptive act or
+practice in commerce.9 At the
+same time, the scope of the act
+has been broadened so as to include a good deal of false advertising regardless of whether injury to a competitor or even the
+existence of a competitor can be
+shown. The new version of the
+Act, therefore, transcends the
+limits of an anti-monopoly law.
+
+4. Extension of Unfair
+Competition to Special Cases
+Unfair competition, in spite
+of the incidental and cavalier
+treatment of it as part of the antitrust laws of the country, has a
+significance outside of those
+laws. It is linked up with trademarks and trade names. In fact,
+we may conveniently think of the
+term as embracing infringements of trade-marks, trade
+names, copyrights, patents, and
+other exclusive rights; palming
+off goods as those of an-other;
+and any other conduct that tends
+without legal justification to hurt
+the business of a competitor. An
+official enumeration would have
+the negative value of suggesting
+heretofore unimagined tricks,
+allowing to each, as to the common-law dog, at least one bite.
+The basis on which the aggrieved
+competitor or customer or the
+government or a commission
+may institute a complaint or seek
+redress will differ widely in the
+above cases which do not belong
+in any single legal category, however much they resemble each
+other in effect, and however
+much the courts and the lawmakers may desire to exclude
+that effect from the market place.
+To treat of all of them might get
+
+www.suspicions.com
+
+us into such diverse pockets of
+the law, as libel, in the case
+where one undertaker slyly sent
+his competitors cards to the
+families of sick persons, and corporation law, where deception is
+carried out with the aid of a
+wholly owned subsidiary which
+parades as an independent corporation.
+(1) GENERAL ASPECTS OF
+UNFAIR COMPETITION RECOGNIZED BY LAW. For our purposes,
+it will be better at this point to
+confine ourselves to those general aspects of unfair competition which the law recognizes,
+regardless of the means used,
+and add a few comments on the
+peculiarities of some of the more
+important situations. In general,
+the law envisages unfair competition through the eye of the customer or the public, except in
+those cases where an exclusive
+right has crystallized into a kind
+of property for the competitor,
+as in true trade-mark, copyright,
+or patent. Unless the public is
+deceived or a specially protected
+right is involved, it is quite possible to annoy or even hurt a
+competitor without violating any
+law. Thus, my competitor may
+copy with impunity my original
+plan for selling goods on credit,
+or my clever design for a garment, or my well-planned window display, or my combination
+offer, so long as he does not
+thereby mislead anyone into
+thinking that his customer is
+dealing with me. Some of these
+acts in competition appear quite
+unfair to the business man. He
+has coined the phrase design
+piracy. He legislated against it
+in the NRA days and he has cooperated with trade associations
+and the Fashion Originators
+Guild of America to put it down.13
+We may look forward to more
+effective protection of ideas in
+the future, but the law of unfair
+competition as such still bears
+the marks of its original aim- the
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+3. Anti-competitive
+Legislation
+Whether because of a change
+of economic philosophy or because of the purely empirical discovery of harms flowing from unrestrained competition, there
+have been engrafted on the antimonopolistic acts certain anticompetitive clauses generally
+disguised for political reasons as
+anti-trust laws. Such disguise is
+possible because the competitors whose activities are curtailed
+are presumably large competitors on the way to becoming
+monopolies. Most noteworthy of
+these are the Robinson-Patman
+amendment10 to the Clayton Act,
+and the fair practice acts culminating in the Miller-Tydings
+law.11 The former tends to prohibit the large retailer from utilizing some of his bargaining
+power in buying; the latter, to
+prohibit him from using his advantages in underselling his
+small competitor in certain protected classes of goods. Both
+types are at this stage limited
+experiments calling for much
+
+administrative implementing,
+judicial interpretation, the watching of loopholes and by-passes
+open to aggressive competitors,
+and legislative amendment. The
+new state and Federal laws requiring employers to submit to
+collective bargaining with employees12 are also, so far as they
+go, anti-competitive in their intent. Whatever social benefits
+may be sought by anti-competitive legislationand there are
+many- no law can save us from
+paying for these benefits
+through higher prices and a sacrifice of the advantages claimed
+for intensive competition when
+trust-busting was the order of
+the day.
+
+15
+
+National Law Library Volume 4 Business Law
+
+protection of the interest of the
+public.
+
+16
+
+(2) TRADE SYMBOLS. (a) Selling or Licensing of Trade Symbols to Others. Another consequence of looking at this branch
+of law through the eyes of the
+public is manifest in the rule that
+a trade-mark or trade name cannot be sold or licensed out in
+gross. That is to say, even if I
+have created, popularized and
+consequently own such a name
+as Ivory applied to soap or Red
+Cross to mattresses, I cannot
+authorize you to use the name
+on similar products of yours with
+which I have no connection. Familiarity with the practice of licensing by patentees, or the authorization to reprint given by
+copyright owners, has frequently
+misled business men into the
+trap of licensing others to use
+their trade symbols. But a trade
+symbol is nothing but a shorthand way of telling the public of
+your connection with the goods,
+and if you are not connected with
+them, your licensing another to
+use the symbol is merely authorizing him to tell a lie, and this
+the law will not countenance.
+Just what connection must
+one have with the goods to make
+an arrangement for the use of his
+trade symbol on them proper?
+The answer depends on another
+question, a shifting question of
+business fact: What does the
+trade symbol say to the ordinary
+member of the public? A generation ago the judges were quite
+ready with an approximate answer to this business question.
+They said that a trade symbol
+indicated origin or ownership of
+goods. Today a more careful answer is called for. There are, for
+example, legitimate dealers
+marks or even brokers marks, as
+well as manufacturers, and they
+may speak of care in selection,
+willingness to warrant, uniformity of grade, or the possession
+of some quality suggested by the
+
+name or by an acquired meaning of the name under the force
+of usage and advertising. Once
+we determine precisely what the
+symbol says, we are able to answer our original question:
+whether the proper facts are
+there to justify a license or a
+transfer of the right to use a
+name.
+(b) Preservation of Trade
+Names. The preservation of trade
+names as ones own property
+presents a serious and at times
+an insuperable problem. Apparently one may lose his exclusive
+right to such invented words as
+escalator, listerine, vaseline, tabloid, mulsified, aspirin, and
+kodak, not merely by abandonment but through no fault of his
+own, if the public actually appropriates the word and makes it
+mean a class of articles regardless of who makes them.14
+(c) Registration of Trade
+Names. Registration of trade
+names under state and Federal
+statutes does not, in general,
+bestow rights. It merely makes
+clear the proof of the facts on
+which rights are based, and it
+gives notice to the world of these
+facts from the date of registration. Such notice may, however,
+itself have the effect of a fact
+when we ask what territory is
+preempted by a particular use of
+a name. In the absence of registration, it is possible to have the
+same name developed simultaneously in several parts of the
+country or even in several cities
+in a single state. As a business
+expands territorially, it becomes
+necessary at times to draw
+boundary lines around the territory belonging to each user.15
+But after a state registration, it
+is difficult to hold a new user in
+another part of the state, or after a national registration, a new
+user elsewhere in the nation,
+entirely without blame.
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+(d) Boundaries of Articles
+Covered by Trade Symbols. An
+even more difficult problem concerns the boundaries around articles covered by a trade symbol.
+Again, the publics view is the
+test. Is the public likely to be
+misled by the use of the word
+Philco, well known in the radio
+business, on safety razors?16 We
+must keep in mind that this is a
+business question and that the
+answer is likely to change as
+manufacturing and marketing
+habits change. Courts have, it is
+true, attempted to list classes of
+articles such as foods, clothing,
+and machinery, to help them in
+solving this problem, but such
+classes are at best approximate
+and subject to change. And after they are made, the specific
+questions are as fact-ridden as
+ever: are chewing gum and tobacco in the same sub-class; are
+silk stockings and silk underwear; are shoes and hats?
+(e) Similarity of Trade Symbols. Looking at trade symbols
+through the public eye forces us
+to regard the offense of infringement as complete when there is
+similarity though not identity. If
+two boxes of cigars look enough
+alike to be mistaken for each
+other when not seen together, it
+is idle to bring experts to testify
+that the types used in the printed
+matter are of different fonts, or
+the colors are distributed differently or the names spelled differently. The question is not whether
+an expert, setting the two boxes
+down together in good light with
+a ruler and magnifying glass, can
+distinguish the counterfeit from
+the genuine; it is, rather, whether
+the transient cigar buyer in the
+smoky atmosphere of the dimly
+lighted shop is likely to overlook
+the difference.
+(f) Absence of a Technical
+Trade-mark. Furthermore, the
+public can be deceived in the
+absence of a true technical trade-
+
+mark or trade name, and the law
+should protect it. It has long
+been laid down that one cannot
+make a trade name out of a descriptive or geographic term, and
+there are other limitations sometimes expressed by saying, You
+cannot appropriate any part of
+the dictionary and exclude others from using it. Nor can you
+appropriate a color or number or
+ordinary style of package as your
+own. And yet the law will not
+permit another to steal your
+good-will by deliberately pretending to the public that his
+product is yours just because
+you have neglected to perfect a
+technical trademark or trade
+name for yourself. Of course, you
+have a more difficult case if you
+must prove unfair competition
+without infringement of a trade
+symbol. You will have to show
+longer usage in order to convince
+the court that color of wrapping
+or combination of ordinary descriptive and geographic words
+has come to mark a product as
+yours. But it can be done, and
+the possibility is the basis of a
+harvest of legal cases every year.
+
+(b) Similarity of Manufacturers Names. The most difficult
+case of all arises where one
+wishes to use his own name for
+a product that has previously
+been introduced by an-other of
+the same name. Obviously there
+are three conflicting interests to
+be adjusted. The prevailing interest is again that seen through
+the eye of the public. One owns
+his name, but he has no more
+right to use it to injure the public than he has to use his crowbar for such a purpose. Injunctions are frequently granted to
+prevent such misuse of ones
+own name. They should, however, be no broader than necessary to effectuate this proper
+end. Thus, it may be sufficient
+to demand a slight difference in
+the set-up of the name, or a notice differentiating the producer
+of goods or the owner of a store
+from an established business
+bearing the same name; or it may
+be necessary to demand a complete cessation of the use of the
+name. The courts will sometimes
+feel their way. In the case where
+a grocer named W. H. Baker lent
+his name to a chocolate bar
+dressed up to imitate the bar
+long sold by Walter Baker & Company, the court found it necessary, because of his persistence
+
+www.suspicions.com
+
+in what seemed a deliberate attempt to benefit by the good-will
+of the old established house, to
+broaden the injunction until it
+became unconditional.18 The
+first comer in such matters obviously has some advantages over
+later comers, because his interest happens to coincide with that
+of the public.
+III. LICENSING TO PREVENT
+INCOMPETENCE OR
+IRRESPONSIBILITY
+To rid the market of incompetence, inefficiency, and irresponsibility, the chief resort of
+modem law is to licensing. We
+are so accustomed to the requirement of licenses for all kinds of
+activity from owning a dog to
+driving an automobile, and particularly for the privilege of engaging in business or following
+professions, that it is hard to realize how recent a development
+we are dealing with here. As late
+as 1883 Mr. Justice Field of the
+Supreme Court of the United
+States declared that it was the
+distinctive right of every American citizen to carry on the ordinary businesses of life without
+let or hindrance.19 Even while he
+was speaking, a development
+was under way to require the licensing of physicians and lawyers, pharmacists and dentists.
+Soon the humbler callings of
+plumber and sewer tapper were
+included. By the end of the century, hundreds of cases had been
+decided in the highest courts of
+the several states and in the Supreme Court of the United States,
+upholding attempts to subject
+practically every known industry
+to the licensing power of the
+state or its agencies. Many of
+these licenses are perfunctory.
+They are really petty privilege
+taxes. Others are based on careful examinations, character studies and records. The potential
+control of the market by the gov-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+(3) NAMES OF PATENTED ARTICLES. The names of patented
+articles are in a different legal
+class. An article worthy of a
+patent must be something new,
+and it is entitled to a new name.
+The patentee gives it that name.
+When the patent expires, the
+whole world has the right to
+make the article and to call it by
+its name. Nice questions may
+arise as to whether the name of
+the patented article includes the
+patentees name. Can anyone
+make a Singer Sewing Machine
+and sell it under that name? Or a
+Stillson wrench? Obviously it may
+be wise, during the life of a
+patent, to popularize not only the
+official name but a trade name
+or mark, as well, that can preserve for you such goodwill as
+you have earned, for the time
+when the patent itself expires.
+
+(a) Expiration of Patent. A
+curious instance of the combination of the principles of the
+last two paragraphs is found in
+the Shredded Wheat case.17 At
+the expiration of the patent in
+1912, presumably anyone could
+have made the product and
+called it Shredded Wheat. But
+apparently no one did, and in the
+course of fifteen years the question arose whether beginning at
+scratch on the date of the expiration of the patent, the manufacturers had succeeded in putting into the words a secondary
+meaning. The Supreme Court
+recognized the possibility, but
+held that it had not taken place.
+
+17
+
+National Law Library Volume 4 Business Law
+
+18
+
+ernment, which is inherent in the
+license system, still lies ahead of
+us. In the National Industrial Recovery Act, national licensing for
+all businesses was prescribed as
+an extreme measure.
+The licensing power, however, does not in theory go so far
+as to authorize a state or national
+planned economy. That issue was
+fought out in the case of New
+State Ice Company v. Liebmann.20
+The State of Oklahoma had provided that no license be given to
+any ice company unless it had
+first procured from designated
+authorities a certificate of public convenience and necessity.
+Such certificates have in the past
+been required as conditions precedent to establishing new public utility enterprises, banks and
+a few other types of business
+charged with a public interest.
+The Supreme Court held (Mr. Justice Brandeis dissenting) that in
+the case of such an ordinary business as the manufacture of ice it
+was not for the state to say how
+many competing units were desirable. It is true, of course, that
+licensing is sometimes perverted
+into a means of keeping down
+competition in an industry or
+profession. Those who are in,
+easily persuade themselves that
+standards ought to be raised for
+newcomers. Nevertheless, if this
+is the avowed motive of licensing, it is unconstitutional. If an
+officially planned market becomes a desideratum, we must
+either amend the Constitution or
+resort to such subterfuges as
+purchasing compliance, after the
+manner of the Agricultural
+Adjustment Act, 21 which was
+held unconstitutional on other
+grounds, and of the Bituminous
+Coal Act of 1937.22
+
+1
+
+From President Roosevelts
+message to Congress on Mar. 29,
+1933, recommending legislation
+for Federal supervision of traffic in
+investment securities in interstate
+commerce.
+2
+
+Sec. 12 of the Uniform Sales
+Act, p. 297.
+3
+
+E. A. Adler, Monopolizing at
+Common Law and under Section
+Two of the Sherman Act, 31
+Harvard Law Review 246.
+4
+
+The provisions of the Live
+Poultry Code, approved under the
+Act, were held invalid because
+adopted pursuant to an unconstitutional delegation of legislative
+power to the President; the Act
+was also held unconstitutional as
+an attempt to regulate intrastate
+commerce. A. L. A. Schechter
+Poultry Corp. v. United States, 295
+US. 495 (1935).
+5
+
+Federal Trade Commission v.
+Beech-Nut Packing Co., 257 U.S.
+441 (1922).
+6
+
+P. L No. 314, 75th Congress,
+1st Sess. (Aug. 1937) Title VIII,
+which amends Sec. 1 of the antitrust laws, legalizes interstate
+price contracts and makes it
+possible for manufacturers in the
+43 states where intrastate price
+contracts are valid to set up an
+interstate system of price fixing.
+7
+
+In all states except Alabama,
+Delaware, Missouri, Texas, and
+Vermont.
+8
+
+See supra, note 4.
+
+9
+
+Amendment of March 21,
+1938, 52 Stat. 111; U. S. Code,
+Title 15, Sec. 45.
+10
+
+Amendment of June 19,
+1936, 49 Stat. 1526, 1528; 15
+U.S.C., Secs. 13, 13a.
+11
+
+Suspicions News Magazine
+
+See supra, notes 6 and 7.
+
+www.suspicions.info
+
+12
+
+Federal National Labor
+Relations Act of 1935 (49 Stat.
+449, 29 U.S.C. Sec. 151 et seq.)
+was followed in 1937 by the
+passage of similar legislation in
+Massachusetts, New York, Pennsylvania, Utah, and Wisconsin. On
+April 12, 1937, the constitutionality of the Federal act was upheld,
+in five sweeping decisions, not
+only as it applied to interstate
+commerce, but also as it applied
+to manufacturing or production
+where interstate commerce is
+merely affected.
+13
+
+This co-operation was held
+not to show monopoly in the case
+of Wm. Filenes Sons Co. v.
+Fashion Originators Guild of
+America, 90 F. 2d 556 (1937).
+14
+
+Another example involved
+the right to sole use of the word
+cellophane. DuPont Cellophane
+Co. v. Waxed Products Co., 85 F.
+2d 75 (1936).
+15
+
+Courts have said that
+registration under the federal
+enactment projects the territoriality of the trade-mark to the
+boundaries of the United States.
+However, in a recent Supreme
+Court decisionU. S. Printing &
+Lithograph Co. v. Griggs Cooper &
+Co., U. 5. 156 (1929)it was
+stated that federal registration of
+a trade-mark did not extend its
+territoriality to the extremities of
+federal jurisdiction but that such
+territoriality was still to be determined by common law principles. Cf. General Bronze Corporation v. Schmelling, 208 Wis. 565
+(1932).
+16
+
+In Philadelphia Storage
+Battery Co. v. Mindlin, 296 N.Y.S.
+176 (1937), the manufacturer of
+Philco radio sets was given
+injunctive relief against the use of
+its trade-mark on this noncompeting product.
+
+Ü
+
+17
+
+Kellogg Co., v. National
+Biscuit Co., Nov. 14, 1938.
+18
+
+Walter Baker & Co., Ltd., v.
+Baker, 77 Fed. 181 (1896); Walter
+Baker & Co., Ltd., v. Sanders, 80
+Fed. 889 (1897); Walter Baker &
+Co., Ltd., v. Baker, 89 Fed. 673
+(1898); Walter Baker & Co., Ltd., v.
+Baker, 87 Fed. 209 (1898); Baker
+v. Slack. 130 Fed. 514 (1904). See
+also L.B.P., p. 70.
+19
+
+Butchers Union Company
+v. Crescent City Company, 111 US.
+746, L.B.P. p. 40.
+20
+
+285 U.S. 262 (1932), L.B.P.,
+
+p. 42.
+21
+
+The Agricultural Adjustment Act was held invalid because
+invading reserved states rights, in
+United States v. Butler et al, 297
+US. 1 (1936).
+22
+
+In Carter v. Carter Coal Co.
+et al., 298 U.S. 238 (1936), the
+Bituminous Coal Conservation Act
+of 1935 was held unconstitutional
+on grounds avoided in the Bituminous Coal Act of 1937 (P.L. No. 48,
+75th Congress, 1st Sess.), which
+provides for price fixing and a
+code of fair competition in Interstate Commerce.
+National Law Library Volume 4 Business Law
+
+www.suspicions.com
+
+Suspicions News Magazine
+
+19
+
+Chapter III
+
+Market Facilities
+
+National Law Library Volume 4 Business Law
+
+I. THE USE OF CONTRACTS
+
+20
+
+For the successful conduct of
+business it is not enough to police the market-place and rid it
+of the dangers discussed in the
+last chapter. It is necessary also
+to provide reasonable facilities
+for its work, and among these
+not the least important are facilitating laws. The greatest part
+of this service is rendered by the
+law of Contracts, legally recognized and enforceable agreements. Contracts are involved in
+every sale of goods or lands, or
+other valuables such as securities or goodwill, in every lease,
+in every extension of credit, in
+every act of employment, in arranging for such services as the
+carriage of goods and passengers, in using the communication facilities furnished by the
+mails or the telephone and telegraph companiesin fact, wherever money is used, and in some
+transactions even where it is not
+used. A study of contracts would
+thus overlap, besides market facilities, a great many other parts
+of our study, such as Credit and
+Organization in business, and
+some domestic and property ar-
+
+rangements scattered through
+other volumes of this work. A
+general treatment of the principles of contract law is accordingly presented elsewhere (Volume VI). At this stage we are concerned, rather, with some specific contracts in common use in
+business than with principles
+common to all contracts.
+1. Development
+of the Law of Contracts
+It appears, then, that the
+warp and woof of modem business is contractual. It was not
+always so. We can picture places
+in the old world where the external appearances of life have not
+changed materially since the late
+Middle Ages. The man we now
+see working in the field is completely enmeshed in contracts.
+He is a tenant by virtue of a contract, or is employed by contract.
+In turn, he employs others in the
+same way. He sells his produce
+by contracts and acquires what
+he needs in like manner. Yet his
+ancestor, who did the same kind
+of work and lived a similar life,
+was scarcely touched by contract
+law. He was born into a status
+under the feudal system, and by
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+reason of that status had certain
+rights and duties in his relations
+to those above him and those
+associated with him or below him
+in the social-economic-political
+structure of his time to which we
+have given the name feudalism.
+If we ask why and how this great
+change has come about, we shall
+find the answer in a whole literature, the nucleus of which will be
+found in a famous sentence
+penned by Sir Henry Maine in
+1861: The movement of the
+progressive societies has hitherto been a movement from Status to Contract.1 Nineteenth
+century writers attributed a good
+deal of significance to this formula. They saw freedom in the
+contract principle which said that
+no man (in the absence of fault)
+should be held to owe duties to
+his fellow men unless he had
+voluntarily undertaken them.
+The status theory of duties suggested serfdom or slavery, which
+had been abolished in Great Britain and its possessions earlier in
+the century and was soon to disappear in America and Russia
+and throughout the civilized
+world.
+
+2. Freedom of Contract
+In this country the doctrine
+grew to be a dogma of constitutional law, though it is not
+written into the Constitution of
+the United States: the dogma of
+freedom of contract. Under it, at
+the end of the nineteenth century and in the first years of the
+twentieth century, a good many
+legislative efforts to dictate the
+terms of contracts were
+thwarted. Not only were statutes
+with reference to the labor contract thrown out unless clearly
+within the police power of the
+state, but price regulation and
+the exclusion of unfair terms in
+types of contracts that had come
+to be one-sided were deemed
+impossible. The only exception
+of importance was that public
+utilities (including carriers) were
+subject to such control as to
+make them duty bound not only
+to contract with all members of
+the public without discrimination, but to treat them all fairly,
+and the authorities were beginning to interpret this to mean
+that the rates and other terms
+could be fixed by legislative or
+properly authorized administrative action.
+
+4. Advantages of
+Standardized Contracts
+As other contracts have been
+standardized and still more are
+being standardized in the same
+waynotably, bills of lading,
+warehouse receipts, sales of
+goods, sales of securities, real
+estate transactions, and bankingit will be worth our while to
+consider the workings of the laws
+to standardize insurance agreements. In the first place, the
+elimination of specialized phrasing has greatly decreased litigation over the meaning of terms.
+All of the standard phrases have
+been judicially defined. The provisions are reasonably two-sided.
+It is possible to buy insurance
+quickly and, at least in ordinary
+cases, without expensive expert
+advice including legal advice.
+Furthermore, it is possible to
+cover parts of the same hazard
+in different companies without
+sowing a wind and reaping a
+whirlwind of confusion. It is possible to master, once for all, the
+essentials of each type of contract, as it was impossible to
+carry in mind a clear picture of
+what each individualized contract covered or failed to cover
+in the past. The companies benefit almost as much as their customers. Whatever competition
+they maintain, they are not
+forced to weigh in the balance
+non-comparable clauses. So a
+
+www.suspicions.com
+
+great deal of sales resistance has
+disappeared. Peculiar insurance
+contracts are still possible to
+meet peculiar situations, but the
+advantages of the standardized
+policies are such that they have
+come to prevail almost as generally as they would had the legislature been empowered to say
+any contract to the contrary notwithstanding, and had it been
+so minded.
+5. Disadvantages of
+Standardized Contracts
+The advantages of standardizing contracts are not unlike
+those of standardizing machinery, and the government may
+play a similar part in both processes. There are, on the other
+hand, the same kinds of disadvantages. The standard gauge of
+machine or cut of clothing that
+serves the average case best
+may not serve any actual case
+so well as the made-to-measure
+article would. So, we shall see,
+the standardized contract of
+sale fits many modern situations
+rather poorly. Furthermore,
+standardization makes change
+to meet new conditions rather
+difficult. The standard gauge of
+railroad tracks is said to be
+based, in the last analysis, on
+the strength of a horse. No matter how powerful engines can be
+made in the foreseeable future,
+it is difficult to see a change in
+this gauge as long as trains run
+on tracks. In like manner, a standardized contract for any given
+purpose, whether it be insurance, banking, or the sale of
+clothing, is likely to resist adjustment to the changing needs
+of a dynamic society. We shall
+find ample illustrations in the
+most important standard contract of the market, that established in the Uniform Sales Act,
+or in the common law of Sales
+of the last century which it faithfully codifies.
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+3. In Absence of
+Agreement to Contrary
+A practical compromise was
+possible about the turn of the
+century, when the theory of freedom of contract was at its height.
+However chary a legislature had
+to be in using the phrase any
+contract to the contrary notwithstanding, it could readily say in
+the absence of any agreement or
+contract to the contrary, and lay
+down the whole or the essential
+part of a standardized contract
+to fit any given situation. It was
+in this way that the State of New
+York, after an important study of
+insurance companies, wrote into
+its statute books a series of standard insurance policies which
+were to cover all cases in this
+absence of written agreements to
+
+the contrary. Only a few provisions were put beyond the control of the parties, and these were
+presumably justified under the
+police power- that somewhat
+vague power of the states to protect public health, safety and
+morals. Many other states followed the example of New York.
+Eventually, standardized insurance policies took the place of
+the widely varying, somewhat
+treacherous, one-sided documents that had become a scandal under the regime of freedom
+of contract.
+
+21
+
+National Law Library Volume 4 Business Law
+
+II. UNIFORM SALES LAW
+
+22
+
+1. Standardized Contract of
+the Uniform Sales Act
+A sale may be defined, for our
+purposes, as the transfer of ownership of goods for a consideration called a price. So definedother definitions are also possibleit is not a contract; it is
+merely a step in the performance
+of a contract of sale. The contract
+may call for an immediate performance or a future performance. It is also possible that,
+for one reason or another, such
+as delay in completing the
+goods, the performance takes
+place after the time agreed upon.
+We are for the moment concerned with the contract rather
+than with the nature of ownership and its legal consequences.
+There are, or may be, other details in the performance of the
+seller than a recognition of the
+thing as yours and no longer his,
+from a given moment. He must
+at least surrender possession,
+and probably also the title or
+indicia of ownership, and he may
+be bound by the contract to
+package, condition, transport,
+set up, or service the thing sold;
+he may be bound to defend your
+claim to it against all comers or
+only certain comers; he may be
+bound to make good certain or
+all defects and pay damages for
+losses resulting from defects, or
+take the goods back or stand
+behind them in other ways. He
+may have bound himself to give
+up possession without being
+paid and wait a stated time for
+his money. He may have agreed
+to insure the goods, to make
+proper arrangements on your
+behalf with a carrier for their
+transportation. He may have
+bound himself to keep spare
+parts on hand and to supply
+them to you at reasonable rates;
+likewise, to carry in stock
+improvements and gadgets that
+may be added, from time to time,
+to the article sold by the manu-
+
+facturer. He may have agreed to
+take the article back under certain conditions and pay back or
+allow in trade parts of the price
+according to a schedule. Perhaps
+he has agreed not to sell goods
+of the same pattern to your competitors. It is, of course, impossible to exhaust the list of
+auxiliary promises that may be
+made by a seller in connection
+with his promise to transfer the
+title and possession of his goods.
+Similar promises can be made
+by the buyer in addition to the
+primary undertaking to pay for
+the goods. Though it is not likely
+that a great many of the stipulations enumerated above exist together in any ordinary contract,
+it is even more unlikely that, in
+the ordinary course of business,
+we shall come across a sale in
+which none of them accompany
+the transfer of title. Hence, it is
+better, for purposes of analysis,
+to follow the English version of
+the Sales of Goods Act, which recognizes a Contract of Sale in every case, than the American version, which speaks of a Contract
+for the Sale of Goods if the transfer of ownership is postponed,
+and a Sale (with no allusion to any
+contract) if the transfer of ownership is immediate.
+2. Special Stipulations in
+Individual Contracts of Sale
+If all of the terms of every
+contract of sale had to be mentioned, to say nothing of a requirement of writing, the ordinary haberdashers clerk could
+perhaps, with the aid of a lawyer, sell a single collar or tie in a
+day, and at the end of the day he
+would be completely exhausted.
+With standardization, he blandly
+wraps up package after package
+while chatting about the
+weather, and lets the law dictate
+the terms as to what may and
+what may not be expected of the
+goods. But on what principle
+does the existing Sales Law make
+its selection among all the pos-
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+sible contracts that the parties
+could conceivably make were
+they minded to write special
+stipulations?
+To answer this question we
+must bear in mind the type of
+sale that was most common in
+England while this law was in its
+formative stage, a century ago,
+rather than the type of sale with
+which we are today familiar in the
+large stores m urban centers.
+Thus, the sale presumed is a
+cash-and-carry transaction; it is,
+in the absence of the proof of a
+contrary intent, the task of the
+buyer to pick up the goods as
+they are at the sellers place of
+business or home or wherever
+they may be, and carry them
+away. From this presumption
+arose the complicated result that
+the carrier is generally to be considered the agent of the buyer in
+getting the goods, rather than of
+the seller in carrying them.
+Hence, claims against the railroad company are normally made
+by the consignee; hence, also,
+the goods in the hands of the
+carrier, even if they are being
+sent C.O.D., are looked upon as
+already in the possession of the
+buyer. And since liens are based
+on possession, it is too late to
+enforce a lien, strictly speaking,
+if the goods are in transit, even
+though at that stage it is discovered that the buyer is insolvent.
+For this reason there has grown
+up a very technical doctrine of
+stoppage in transitu, to restore
+the goods to a position in which
+a lien or its equivalent can once
+more be asserted by the seller.
+Furthermore, as there is no presumption that credit is to be extended, the seller is entitled to
+hold the goods until there is a
+tender of payment, in the absence of specifications to the
+contrary. Out of this notion
+grows the vendors lien.
+3. Implied Warranties
+(1) ABSENCE OF PROVISION
+FOR THE MIDDLEMAN. Another
+
+feature of the type of sale contemplated which reflects the past
+rather than the present is the
+absence of provision for the
+middleman. Practically all of the
+warranties recited as implied
+assume that the only buyer contemplated is a consumer, and the
+sellers are dealt with as growers
+or manufacturers, whether they
+be growers or manufacturers or
+not.2 Warranties do not run with
+the goodsthat is to say, even
+if branded goods are bought
+from a middleman who obviously
+has nothing to do with their
+preparation, the buyer must look
+to him for any warranties, and he
+in turn may or may not have recourse to the manufacturer. The
+law has, it is true, done something to meet this condition, but
+not within the Sales Act nor under the heading of warranties.
+The disappointed buyer may
+make his claim against the negligent manufacturer, if at all, only
+on the ground that it was a tort
+to send poisonous or otherwise
+dangerous goods out into the
+world without proper warnings.
+
+4. Rules Vesting
+Title in the Buyer
+The type of sale contemplated, furthermore, is the sale
+of goods ready for transfer over
+the counter, in which case the
+sale is consummated when the
+contract is made.
+Hence, on the question when
+title passes, after stating that it
+all depends upon the contract
+which, in turn, is the intent of the
+parties, to be gathered from the
+words, surrounding circumstances, customs, and other relevant evidencethe Act proceeds to lay down a series of
+rules to be. resorted to in extreme cases of doubt, and these
+rules favor the earliest possible
+vesting of title in the buyer. Thus,
+the first of them assumes this
+extreme and rather surprising
+form: Where there is an unconditional contract to sell specific
+goods, in a deliverable state, the
+property in the goods passes to
+the buyer when the contract is
+made, and it is immaterial
+whether the time of payment, or.
+the time of delivery, or both, be
+postponed. 3 Literally interpreted, this would mean that if
+A sold his automobile to B on
+January 1st, to be delivered and
+paid for on February 1st, B might
+expect a telephone call any time
+during the month of January in-
+
+www.suspicions.com
+
+forming him that his automobile
+(that is, Bs) had been stolen or
+destroyed, and that he could take
+whatever steps were still open to
+protect his interests, but that A
+would still have to be paid at the
+time agreed upon. This, of
+course, would seem like arrant
+nonsense to B. All that the rule
+and those that follow it mean is
+that where the case permits of
+such an interpretation at all,
+early vesting of title in the purchaser is to be preferred to later
+possible dates.
+5. Deviations from the Sales
+ActSpecial Sales Agreements
+In view of the inadequacy of
+the simple picture of sales that
+is taken from the life of a century or two centuries ago, it frequently becomes necessary to
+draw up special sales agreements, or at least stipulations, to
+cover phases of the sales contract for particular purposes. A
+comparison of the sales form
+used by a large corporation with
+its order form will indicate at
+once the latitude possible in
+making deviations from the Sales
+Act. The tendency of the sales
+form is to shift every possible
+risk to the buyer. The tendency
+of the order form is the opposite,
+and in addition it is likely to
+specify warranties of a technical
+type, such as the one against
+patent infringement, and to deviate markedly from the assumptions of the Sales Act by covering credit terms, plans for packing and delivery, opportunities
+for inspection and even devices
+for self-help in case of disappointment on the part of the
+buyer.4 On the other hand, it is
+not unusual for both buyer and
+seller to favor a deviation from
+the law which refuses to excuse
+a man from his contractual
+obligation in the face of hardships not of his own making. A
+stipulation making an order or a
+promise to sell subject to strikes,
+lockouts, fires or other unavoid-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+(2) WARRANTIES APPLICABLE TO CONSUMER-PURCHASER. An examination of the
+details of the implied warranties
+will bear out the picture of (a) the
+consumer-purchaser dealing
+with a manufacturing dealer,
+rather than (b) of a dealer-purchaser or manufacturing-purchaser. The first implied warranty
+is that, where there is reliance on
+the judgment of the seller that
+the goods are fit for the buyers
+purpose, there is an implied warranty that the goods are fit for
+such a purpose. Another warranty is that, when one buys
+goods from a dealer the goods
+are of merchantable qualityand
+merchantable, though it might
+originally have meant fit to be
+resold, has, since the Sales Act
+was adopted, been pretty definitely interpreted to mean merely
+standard quality.
+
+(3) USE OF TRADE NAME
+AND WARRANTY. Where goods
+are bought by their patent or
+other trade name there is no
+warranty that they are fit for any
+purpose. On the other hand,
+patent or trade names are coming definitely to have secondary
+meanings, as a result of the advertising that goes into them,
+and it is reasonable to read into
+the use of the name a warranty
+that the goods have all the qualities or ingredients for which that
+name has come to be an abbreviated method of statement. For
+this development, the Act makes
+no provision.
+
+23
+
+able causes for delay or non-performance is not unusual.
+
+National Law Library Volume 4 Business Law
+
+III. SPECIALLY REGULATED
+CONTRACTS
+
+24
+
+Although current law regards
+most of the other services rendered in business as fitting into
+the frame of contract, it has become necessary to recognize and
+regulate certain peculiar features
+of these relations, so that we may
+again look upon many of them
+as they were looked upon in
+Black-stones day when they were
+more standardized. Of course,
+the details of the standardization
+of the twentieth century differ
+from those of the eighteenth.
+Thus, it is possible to view the
+duties of the carrier both of persons and of goods, the duties of
+the insurance company and certain public utilities, of banks and
+trust companies, commodity and
+security exchanges, public warehousemen and many others engaged in dealing with the public, as dictated only in part by
+contract and in large measure by
+rules of law, some of which are
+set down in the absence of any
+contract to the contrary, and others, any contract to the contrary
+notwithstanding. Even where it
+is legally possible to deviate, it
+may be difficult if not impossible
+in practice to substitute ones
+own terminology: hence such
+rules are, in effect, a return to
+status. We may select, from this
+list of special services, twothat
+of the insurer and that of the
+public utilityto illustrate
+phases of their development pertinent to the study of other typical business services.
+1. Substantive Law of
+Insurance
+The essence of an insurance
+contract is an agreement
+whereby the insurer agrees to
+reimburse the insured for a loss.
+The insurer may, of course, be a
+
+group of persons including the
+insured, and the total significance of the contract may be to
+spread the loss over the whole
+group instead of leaving it on the
+shoulders of the individual upon
+whom it falls. On the other hand,
+the insurer may be a group of
+underwriters or a corporation
+that entered into the business on
+a purely commercial basis. By
+carefully calculating the probabilities of loss over a widespread field, the insurer can reimburse itself through the collection of a premium which is a
+small percentage of the risk covered in any particular case. These
+terms apply pretty clearly to
+marine insurance, in which the
+whole plan probably originated.
+They are almost equally applicable to fire, accident, theft, tornado and even credit insurance.
+Some stretching may be necessary in order to make them apply to life insurance, for life insurance has two phases: though
+the time of death is uncertain,
+its eventual occurrence is certain.
+Hence, life insurance involves the
+building up of an estate which
+will eventually be paid over, as
+well as the covering of the risk
+of premature death before the
+estate is built up. The estatebuilding side is, therefore, somewhat akin to the function of a
+savings bank. Its difference is
+that, instead of holding various
+sums calculated individually for
+each depositor, the insurance
+company holds a lump sum, in
+which all of its depositors have
+an interest, to be partitioned
+among the individuals in accordance with unforeseeable events.
+(1) CONTRACTS
+OVER
+WEIGHTED AGAINST THE CUSTOMER. During the days of freedom of contract, insurance
+companies had a tendency to
+write their own lengthy and
+complicated agreements giving
+the customer little or no option
+but to sign on the dotted line. In
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+course of time, the tendency was
+to make policies so one-sided
+that an insurance company
+could, if it cared to, dodge or at
+least question its liability. Thus,
+every statement made in the
+course of buying a policy was put
+down as a warranty, so that if
+there was any deviation from the
+truth, all of the rights of the insured could be defeated. Other
+special defenses, including special periods of limitation and special modes of proof of loss, were
+multiplied. This tendency to
+write drastic contracts weighted
+against the customer is by no
+means limited to the business of
+insurance. It has occurred in the
+history of bills of lading and
+many other fundamental contracts on which important businesses are based. Eventually in
+such cases the courts and the
+legislatures step in to protect the
+customer. In the case of the insurance companies, legislation
+has produced in most of our
+states a standard series of policies, and litigation has developed
+a principle of interpreting all
+doubtful phrases most strictly
+against the insurance company.
+(2) WEEDING OUT OF IRRESPONSIBLE INSURANCE COMPANIES. Another phase of public
+interest in the insurance company has as its objective the
+weeding out of irresponsible
+companies and the prevention of
+practices likely to impair solvency. Under the laws of most
+states, insurance commissioners
+are appointed who exercise a
+broad discretion in the matter of
+granting licenses to engage in
+the business of insurance. Many
+of these laws are supplemented
+by the requirement of a minimum
+capital and a deposit of securities with state officials for the
+protection of interests of citizens. Furthermore, there is exercised control over the investment policy of insurance companies. Constant inspection is pro-
+
+vided for, and liquidation by a
+public officer is compulsory
+where an insurance company has
+failed to maintain the margin of
+safety required by law.
+
+(1) MAKING OF RATES. The
+central interest of the state is in
+rates, and a great deal of law has
+grown up governing the making
+of rates. Theoretically, the object
+of this legislation is to give the
+citizens fair rates; actually, however, the only possible basis on
+which utilities have been able to
+fight rates which they considered
+inadequately remunerative has
+been to allege in court that their
+constitutional rights are jeopardized by a rate which operates
+to confiscate their property without due process of law. Hence,
+the eyes of the law have been
+
+(a) Fairness of Particular
+Rates. The two distinct questions
+have been rather crudely related
+in the procedure before commissions by using the formula of
+valuation for the property devoted to the public utility, in order to find a rate base, and from
+this rate base to proceed through
+the mathematics of a fair return
+to the answer m a rate schedule
+or a particular rate. Actually there
+are too many unknown quantities in this calculation from beginning to end to make it anything more than a check against
+careless guessing or arbitrariness. It is quite possible, for example, that the value of a plant
+has no direct relationship to the
+value of the service that it renders. A cheap taxicab might give
+the same service on a particular
+occasion as a more expensive
+one. In either case it may be
+worth fifty cents to be carried
+from the hotel to the station.
+(b) Remuneration to the Investors. Furthermore, there may
+be a socially desirable rate which
+does not pay or which overpays
+the investor. Thus, there may be
+very good reasons why New York
+City should want to hold subway
+fares down to five cents, and
+those reasons may be so potent
+that it may be wise to have the
+citizens make up deficits out of
+taxes. The assumption that the
+rate which gives a normal return
+to investors is at the same time
+both a socially desirable rate and
+a rate that gauges the actual
+value of the service, is a wholly
+gratuitous assumption.
+(2) FACTORS WHICH CONSTITUTE A PROPER RATE BASE.
+Nevertheless, a vast part of pub-
+
+www.suspicions.com
+
+lic utility law is devoted to refinements of the question: what constitutes a proper rate base. Is it
+original cost modified by depreciation, appreciation, depletion,
+obsolescence and such accounting considerations? Is it the
+present cost of reproduction,
+modified by this and similar considerations? Is it the prudent and
+defensible portion of actual investment that we should start
+with? Is it present valuation arrived at by appraisal independently of all these elements?
+Should earning capacity be taken
+into consideration? Is goodwill in
+any sense a possession of the
+investors in the utility? How shall
+franchises be valued? Though
+there is much technical learning
+put forward on all of these questions, most of it is rendered
+nugatory in effect by a very
+simple device on the part of commissions: whenever the finding
+of a commission is set aside because of its failure to take any
+one of these elements into consideration, it proceeds thereafter
+to make a point of listening to
+that type of evidence and proclaiming that it does take that
+element into consideration. An
+award of a commission which
+proclaims that it has taken everything into consideration is, if
+at all within the range of reason,
+proof against court attack.
+
+1
+
+Ancient Law, p. 168-170.
+
+2
+
+Uniform Sales Act, Secs. 1316. p. 298.
+3
+
+Sec. 19, Rule 1, p. 300.
+
+4
+
+L.B.P., pp. 196-198.
+
+5
+
+For an outstanding work on
+this subject see Bonbright, James
+C., The Valuation of Property,
+New York, 1937.
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+2. Public Utilities
+Still, an insurance company
+is not a public utility. It is not, in
+general, required to do business
+with anyone whom it considers
+a bad risk. The public utility must
+treat all comers alike. The insurance company generally requires
+no franchise in the sense of a
+special privilege in the use of
+public property. Most of our public utilities, such as water works,
+telephone and telegraph companies, gas and electric companies
+and street railway companies, are
+dependent on such franchises,
+and, in accepting, them are
+bound to assume special contractual relations with the state
+or city. In fact, the public utility
+has practically no freedom of
+contract. The telephone company must render service to all
+persons alike. The schedule of its
+rates is that which is dictated or
+at least approved by a commission. Its so-called contract is likewise a set of terms laid down for
+all persons subject to such
+commissions approval. Hence,
+the law of public utilities is very
+largely the administrative law of
+the several states.
+
+turned from the question of the
+fairness of particular rates to the
+entirely distinct question of the
+total remuneration of the persons who have invested in the
+utility.
+
+25
+
+Chapter IV
+
+National Law Library Volume 4 Business Law
+
+Security of Transactions
+
+26
+
+1. Insecurity of Transactions
+after Completion
+(1) ILLEGAL SELLING OF
+ANOTHERS PROPERTY. Business
+involves so many risks, that it is
+reasonable for the business man
+to favor the removal of those
+within the control of the law. One
+of these is the insecurity of transactions after they have been completed. Legal tradition tends to
+protect property rather than
+transactions. The two ideals frequently clash. Thus, an unauthorized person sells the goods of
+one innocent man to another.
+The trickster has disappeared
+with the purchase money. As
+matters stand, one of two innocent persons must suffer. The
+first proposition that confronts
+us is that the goods still belong
+to the original owner. He has
+done nothing to authorize their
+sale, nor has he misled the innocent buyer. Of course, if he has,
+we may find refuge in another
+maxim: where one of two innocent persons must suffer, let
+it be that one who has put the
+fraudulent party in a position to
+defraud. But even that maxim is
+a concession to the business
+mans point of view. In strict law,
+the ownership of the goods has
+not changed hands.
+
+(2) CAVEAT EMPTOR. The
+old rule that throws the major
+risk on the buyer is a hindrance
+to business. The investigation it
+calls for slows up the process of
+negotiating and selling. The
+doubt that remains after the
+most complete investigation is a
+source of sales resistance. When
+the adverse claimant comes out
+of his hiding place, the seller in
+the market, who may himself be
+innocent, must make good his
+customers loss. Caveat emptor
+in this sense, the only meaning
+in which it approximately reflects
+the law, is not a popular doctrine
+with business men. The general
+rule of the common law, we are
+told, is that every man dealing
+with another in reference to
+property that other may have in
+his possession, must take care,
+caveat emptor. The property may
+be stolen, or borrowed, or
+pledged, or in the possession of
+a bailee for some specific purpose, and if so, the party in possession can convey no better or
+further right than he has himself.1 The owner of a thing or of
+any interest in the thing could,
+according to this theory, follow
+it wherever it was taken and
+claim it against the holder for the
+time being, regardless of the conditions under which he had got-
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+ten it, regardless of the hardship
+thereby inflicted. A purchaser
+could acquire no greater rights
+than his vendor possessed. This
+dogma was put forward as a kind
+of law of nature, and Latin was
+invoked against those who questioned it. Nemo plus juris ad
+alienum transferre potest quam
+ipse habet.2 In fact, even after
+the innocent stranger had parted
+with the tainted property, the
+owner could complain of the conversion and sue him in tort.3 It
+was worse than the Imp in the
+Bottle. Let us examine in some
+detail the process by which the
+law eventually destroyed the barrier to every business transaction
+implied in these ancient theories.
+(3) LIMITATION ON RIGHTS
+AND POWERS OF OWNER OVER
+INNOCENT POSSESSOR. The earliest limitations on the rights and
+powers of an owner as against a
+peaceful and innocent possessor
+are procedural. The right of recaption (self-help) was limited to
+fresh pursuit and eventually
+lost altogether.4 The right even
+to restitution through court help
+has been limited by a series of
+statutes of limitation. On a procedural basis, too, was worked
+out a theory that served as a doctrine of accession. Common
+
+which has its counterpart in
+other systems, seems never to
+have taken root in America. We
+have no thieves market where
+titles may be purified for buyers.
+On the other hand, we did, more
+or less unconsciously, take over
+a notion that benefits sellers
+namely, that money has no earmarks.7 Likewise, we took over
+another exception to the doctrine that one cannot give more
+than he owns for the benefit of
+tradesmen rather than buyers,
+the doctrine that a wrongdoer
+can give an effective lien on the
+goods of another to an innkeeper.8 Surely American law
+begins with no particular bias in
+favor of buyers.
+2. Principles
+of the Law of Transactions
+Five principles, however, that
+have their germs in the early law,
+have been allowed to develop so
+as to reverse this condition since
+the American Revolution:
+(1) The first is negotiability
+and its extensions.
+(2) The second is agency and
+its extensions.
+(3) The third is rather a limitation of a growing principle
+that voidable titles cannot be set
+aside so as to interfere with the
+intervening right of innocent
+strangers.
+(4) The fourth is a corollary
+of our public registration of
+documents.
+(5) The fifth is hardly a principleit is the tendency to create a strong or irrebuttable presumption of the regularity of acts
+in the ordinary course of business, and perhaps an opposite
+presumption as to acts inconsistent with business usage.
+Let us examine briefly the
+bearing of each of these on the
+position of a buyer in modern
+business:
+(1) NEGOTIABILITY OF INSTRUMENTS AND ITS EXTENSIONS. In negotiable instru-
+
+www.suspicions.com
+
+ments we have the extreme form
+of the merchants rejection of the
+notion that one cannot sell a
+better title than he has. However
+we undertake to make a reconciliation of the attitude of the law
+merchant with the common
+lawwhether we say negotiation
+cuts off equities, or that it makes
+presumptions absolute, or that
+it excludes personal defenses, or
+that the man who voluntarily
+puts such a document into circulation impliedly consents to
+this or thatthe simple fact is
+that the law of negotiable instruments provides that a man can
+sell a better title than he has. We
+are too apt to overlook the revolutionary nature of this innovation when we try to explain the
+resistance to the introduction
+and extension of the doctrine in
+England until Mansfields day. On
+the other hand, we are likely to
+misunderstand the obstinacy of
+the merchants of Lombard Street
+which finally triumphed. As a
+practical matter, a foreign document which could be assigned
+only subject to all the facts of the
+case and thus could not be taken
+as telling its whole story on its
+face, could not be taken at all.
+In recent times the principle
+that a better title than a particular seller has to a negotiable instrument can be sold, has appealed to the business world to
+such a degree that it has sought
+to extend it to an increasing
+range of transactions. It endeavored to make its corporate bonds
+follow the form and come within
+the principles of promissory
+notes.9 It dealt with stock certificates much as it did with
+bonds, and, after attempting to
+make them as nearly negotiable
+as possible by what it printed on
+them, succeeded eventually in
+having legislation passed in
+many jurisdictions to make them
+actually negotiable.10 More important, however, for our present
+purpose is the legislation making documents of title, ware-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+sense requires the concession
+that a thing may, for legal purposes, be deemed to have been
+destroyed when it has been
+hopelessly imbedded into something else or converted into another substance.5 Hard as that
+line is to draw, once it is drawn
+the legal consequences of destruction may be visited on the
+man guilty of making the destructive accession, but the
+goods may not be reclaimed from
+him nor followed into the hands
+of a purchaser from him. A few
+other situations arose in odd
+places in the law in which a man
+could buy goods and resist any
+claim on the part of a former
+owner who had not consented to
+their saleas when a new title
+was created by a judicial sale in
+rem, a forfeiture, bankruptcy,
+marriage, intestacy, or where the
+law for very good reasons empowered an officer or appointee
+to act instead of an owner for the
+conveyance of that owners title.
+In none of these situations was
+there any thought of serving the
+need of modern business of making transactions stand even as
+against outraged ownership
+but by furnishing prototypes in
+which the theory of ownership
+yielded and transactions stood,
+they became extremely important eventually when a motive
+emerged for striking a new balance between the sanctity of
+ownership and the importance of
+upholding transactions.
+The first limitation on ownership in English law based substantially on the business considerations in favor of the security
+of transactions was probably the
+doctrine of market overt.6 The
+idea seems to have been that if
+a thing was exposed and sold in
+a market overt in the ordinary
+course of business, the buyer
+took a clear title. The transaction
+was not only good between the
+parties but also binding on all
+those who had any right or property in the goods sold. This law,
+
+27
+
+National Law Library Volume 4 Business Law
+
+house receipts,11 and bills of
+lading,12 when properly drawn,
+negotiable. Negotiable instruments familiarized the business
+world and the lawyer with several concepts such as due
+course, bona fide purchaser for
+value without notice, as well as
+with the general idea of the security of a transaction, and these
+ideas were found useful eventually in connection with the other
+principles that came more directly to the aid of buyers.
+
+28
+
+(2) AGENCY AND ITS EXTENSIONS. Agency in its strict sense
+and narrower applications is, of
+course, no illustration of the extension of any special favor to
+buyers. It is only when, by a liberal interpretation of apparent
+scope in the light of the ordinary
+course of business, an agent of
+a dealer is clothed with powers
+beyond his authorization, that
+the buyer is benefited. The principle is not different in theory
+from that which would equally
+benefit sellers or other contracting parties under similar circumstances. In practice, however,
+buyers are very important beneficiaries of this principle. Not
+only are they entitled to assume
+the ordinary powers of warranty
+in the agents with whom they
+deal, but also the power to sell
+the things in their possession- so
+far as consistent with the ordinary course of the trade.13 There
+is, however, a further extension
+of the principle which makes it
+possible in an increasing variety
+of cases to treat a person to
+whose possession goods have
+been entrusted as an agent to
+sell by reason of the holding
+out, though in fact he is not an
+agent at all.14 This quasi-agency
+has been technically built up on
+the basis of estoppel. In fact, it
+has come about in response to
+the business need for the protection of buyers in the ordinary
+course of business.
+
+(3) TRANSFER TO INNOCENT
+PURCHASER OF VOIDABLE TITLE
+OR ONE HAVING INCUMBRANCE.
+Tangible things are not negotiable. There are situations,
+however, in which the holder of
+a voidable title can transfer a
+perfectly good title to an innocent purchaser for value. A title
+acquired by fraud, duress, undue
+influence, or under any other
+condition in which a contract
+may be set aside at the option of
+the victim, may have to stand if
+the rights of an innocent
+stranger have intervened.15 It is
+true that there is a difference in
+degree between the situations in
+which the fraudulent purchaser
+of a horse gives a good title and
+that in which the finder of a negotiable instrument, payable to
+bearer, passes a good title.
+Thus, where the transferor has
+no title to the object the buyer
+from him gets none.16 But the
+conception of what constitutes
+bona fides, what constitutes
+value, what constitutes notice in
+the conception of the bona fide
+(or innocent) purchaser for value
+without notice, tends to be taken
+bodily from negotiable instruments law and read into the law
+of dealings in goods by fraudulent owners. There has accordingly been a relaxation in
+late years. Whereas formerly
+some states disqualified the innocent purchaser who though
+without actual notice might have
+acquired knowledge,17 today the
+tendency is to require the proof
+of actual knowledge of the defect or such facts that his action
+in taking the commodity
+amounts to bad faith, before he
+is disqualified from taking a better title than his seller had.18
+Likewise, the value with which he
+must part is anything that will
+serve to support a simple contract as consideration,19 such as
+a promise, or forbearance, or a
+discharge of a debt. It need not
+be present value. The law is very
+liberal to the buyer under such
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+conditionsmore liberal, for example, than to one who buys
+from a defaulting trustee.20
+Where ones defect in title is
+not due to its voidability, but simply to the existence of a condition or incumbrance, under the
+common law theory it can be sold
+only subject to the incumbrance.21 If the object had previously been mortgaged, the innocent purchaser has only his folly
+to thank when it is taken from
+him to satisfy the mortgage. The
+same principle applies to a conditional sale or to any other arrangement whereby a creditor
+has retained or acquired a legal
+interest in the subject matter of
+the sale. Unless something could
+be done to protect an innocent
+purchaser against such secret
+incumbrances, all security of
+transactions would disappear.
+(4) RECORDING OF DOCUMENTS. As to real property the
+same problem existed, though
+the inconvenience of requiring a
+long drawn-out investigation was
+not felt as so prohibitive a burden because of the relatively
+greater size and importance of
+the transaction. Several solutions
+or partial solutions of the difficulty have found their way into
+our statute books, most of which
+involve a public notice, filing, or
+record. If such public notice, filing, or record is neglected, the
+law declares the transaction void,
+or at least inoperative as to
+strangers. There is considerable
+diversity in recording laws as to
+the strangers benefited by their
+violationswhether they must
+be purchasers and if so whether
+judgment creditors are to be considered purchasers, whether they
+must be ignorant of the prior
+transaction, and so on. A difference between real estate and
+personal property was discovered early in the development of
+the laws of public notice. There
+was no difficulty as to where the
+record should be made for real
+
+(5) PRESUMPTION OF REGULARITY OF ACTS IN BUSINESS.
+The old law used to expect a
+great deal from the man on the
+street. He was not only expected
+to be circumspect, to examine
+the title and quality of everything
+he bought, but he was expected
+to know a good deal about the
+corporations with which he dealt.
+He was supposed to make sure
+that they existed according to
+law, that they had the power to
+do that which they undertook,
+and that the officers through
+whom they acted were the duly
+constituted officers. A bank dealing with a corporation can and
+does demand evidence for its
+records of all these things. The
+ordinary customer of the corporation does not and cannot. In
+the early days of the use of the
+corporation in private business
+there was a possibility at one
+time that the doctrine of ultra
+vires would be so applied as to
+hamper the usefulness of the
+corporate form in business. But
+gradually the whole doctrine began to fade out of the picture. A
+legal necessity for a technical
+investigation at the threshold of
+each of the hundreds of contracts made in a modem business day is an intolerable burden.
+
+1
+
+First Nat. Bank of Macon v.
+Nelson & Co., 38 Ga. 391, 398
+(1868).
+2
+
+Dig.. L., 17, 54.
+
+3
+
+Swim v. Wilson, 90 Cal. 126
+(1891); Sharp v. Parks, 48 Ill. 511
+(1868); Robinson v. Skipworth, 23
+Ind. 311 (1864); Everett v. Coffin,
+6 Wend. 603 (N. Y. 1831);
+Bancroft-Whitney Co. v. McHugh,
+166 Cal. 140 (1913).
+4
+
+I Blackstones Commentaries 297.
+5
+
+Blackstone founds accession
+on the right of occupancy. Traditionally, since Bracton, the doctrine in Anglo-American law has
+been supposed to have been
+taken from Roman law (bk. 2, cc. 2
+and 3). See Pulcifer v. Page, 32 Me.
+404 (1851). The test of relative
+values, however, which has been
+widely applied in this country,
+differs quite radically from the test
+of change of species of the Roman
+law, and the injection of a distinction against a willful trespasser
+goes to distinguish the AngloAmerican doctrine of accession
+from that of the Romans.
+6
+
+2 Co. Inst. 713: .... the
+Common Law did hold it for a
+point of great policy, and
+behovefull for the Commonwealth, that Fairs and Markets
+overt should be replenished, and
+well furnished with all manner of
+commodities, vendible in Fairs and
+Markets, for the necessary
+sustentation and use of the
+people. And to that end the
+Common Law did ordain (to
+encourage men thereunto) that all
+sales and contracts of any thing
+vendible in Fairs or Markets overt,
+should not be good only between
+the parties, but should bind those
+that right had thereunto. But this
+rule hath many exceptions.
+7
+
+This doctrine is, of course,
+subject to numerous reservations.
+
+www.suspicions.com
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+estate, as the land could never
+be moved out of the county. But
+suppose a public notice was effected as to a chattel mortgage
+on a piano in Buffalo, New York,
+and that piano was wrongfully
+sold while the mortgage was
+unsatisfied, in Cleveland, Ohio,
+to an innocent purchaser. In such
+a case it was held that the mortgagee had done all that the law
+required him to do and that the
+doctrine of caveat emptor would
+apply. 22 In other words, the
+buyer is not so effectively protected in the case of personal
+property as he is in the case of
+real estate, though the devices
+adopted for his protection are
+similar. This is particularly noticeable in the case of automobiles. They are very commonly
+incumbered with chattel mortgages or conditional sales, and
+yet they are so easily moved from
+county to county and state to
+state that the chattel mortgage
+list in some remote county is certainly no protection to a prospective buyer. Consequently, we
+hear. suggestions as to national
+recording for automobile encumbrances, or checks on the transfer of automobiles through the
+official issuing of licenses, and
+even the requirements of formalities and public notice subject to
+penalties, in connection with every sale of a car. The problem is
+not solved, but it seems to be
+taken for granted that a simple
+return to caveat emptor is not a
+satisfactory solution. We may
+have to put the buyer to some
+trouble in the examination of
+records, and we may have to
+leave him subject to some
+chance, but we take it for granted
+that the law should be relied on
+to devise some means for making the buyer of personal property as well as real estate, of used
+articles as well as new ones, reasonably safe against incumbrances.
+
+29
+
+Where money can be described
+and identified as a specific chattel
+it is, of course, a subject of
+conversion. Cases are collected in
+(1911) 38 Cyc. 2015.
+8
+
+For the history of this
+doctrine in America, see Waters v.
+Gerard, 189 N.Y. 302, 82 N. E. 143
+(1907).
+9
+
+Hibbs v. Brown, 190 N. Y.
+167, 82 N. E. 1108 (1907); (1906)
+19 Harvard Law Review 616.
+10
+
+Uniform Stock Transfer Act,
+proposed by the Commissioners
+of Uniform State Laws in 1909,
+has been adopted in twenty-five
+states.
+11
+
+The Uniform Warehouse
+Receipts Act, proposed in 1906.
+has been adopted in forty-eight
+states. The amendments proposed
+thereto in 1922 have been
+adopted in fourteen states.
+
+12
+
+The Uniform Bills of Lading
+Act, proposed in 1909, has been
+adopted in twenty-nine states.
+13
+
+Herring v. Skaggs, 73 Ala.
+446 (1882).
+14
+
+There is, of course, more
+than a technical distinction
+between implied agency and socalled agency by estoppel. In the
+latter, it is said, for example, that
+the stranger must show that he
+knew and relied upon the conduct
+of the principal. The effect,
+however, of both is identical so far
+as the passing of a title without
+the consent of the owner is
+involved.
+15
+
+Browning v. De Ford, 178 U.
+S. 196 (1900).
+16
+
+Bolles Woodenware Co. v.
+United States, 106 U. 5. 432
+(1882).
+
+17
+
+Walsh v. Stille, 2 Pars. Eq;
+17 (Pa. 1842); Walbrun v. Babbitt,
+83 U. S. 577 (1872); Mahoney v.
+Ganno, 2 Ind. App. 107, 27 N. E.
+315 (1891).
+18
+
+Cf. Negotiable Instruments
+Law, Sec. 56, Uniform Sales Act,
+Secs. 24, 76(2). Appendix, see p.
+230, p. 304, p. 326.
+19
+
+Uniform Sales Act, Sec.
+76(1), p. 326.
+20
+
+In states in which purchase
+for value had previously been
+defined to refer to present value
+(Ohio, for example), there was, of
+course, no change so far as laws
+of trusteeship were concerned
+effected by the new uniform acts.
+Cf. Crigler v. Rouse, 209 Ky. 439,
+272 S. W. 905 (1925).
+21
+
+Cf. Sondheimer v. Graeser,
+172 Ill. 293, 50 N. E. 174 (1898).
+22
+
+National Law Library Volume 4 Business Law
+
+Kanaga v. Taylor, 7 Ohio St.
+134 (1857). See 41 Harv. L. Rev.
+779 (1928).
+
+30
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+Chapter V
+
+Business Property
+
+2. Protection
+of Business Property
+The interests which the law
+recognizes and protects in physi-
+
+cal things, both movable and
+immovable. are the subject of
+another volume in this series.1
+Subject to some limitations indicated in the last chapter, the
+rules of property law that have
+grown up outside of business
+must suffice for business. When
+we turn to the intangible values,
+however, we are confronted with
+some new types of property or
+quasi-property for which business insistently demands and
+the law reluctantly accords recognition. Of course, it makes
+little difference to the business
+man whether you accord the
+name property to his goodwill,
+his trade-marks, trade names,
+secret formulae, advantage of
+having a going concern, advantageous contract, established
+labor relations and other similar
+advantages, and even his nuisance values. He is very much
+concerned, however, in the manner in which the law protects
+such interests from subtle attacks, in the manner of his being taxed because of them, in the
+question of their transferability
+either in gross or in connection
+with property in tangible things,
+and in what facilities the law furnishes for staking out, recording,
+publishing and perpetuating
+such interests. To put the matter another way, the reason these
+interests are treated in certain
+ways is not that they are or are
+
+www.suspicions.com
+
+not property. On the contrary,
+they become or fail to become
+essentially like property because
+of the way they are treated.
+(1) TRADE-MARKS AND TRADE
+NAMES. We have, in an-other connection, already considered the
+nature of the protection accorded
+true trade-marks and trade names,
+and also the similar protection
+against unfair competition accorded trade symbols that fall
+short of the technical requirements of trade-marks and
+trade names. The influence of the
+property idea is seen, however, in
+the different rules of damages allowed for infringement and for
+unfair competition where there is
+no infringement. In the case of the
+American Girl Shoe2 much turned
+on this question. If this name were
+taken to be fanciful, a full accounting of the profits of the defendant
+would have to be made, whether
+he sold to new customers or to
+the old customers or the plaintiff.
+If, however, the term were taken
+to be geographical and descriptive
+the offender would be answerable
+only for the loss suffered by his
+competitor, the plaintiff. The difference was considerable. Fortunately for the plaintiff, the full
+trade-mark included a picture of
+an American girl, and for this and
+other reasons the court leaned to
+the conclusion that the name was
+a fanciful one.
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+1. Business Property
+Defined
+When the business man lists
+his assets for a financial statement, he is not exactly making
+an inventory of his property in
+the legal sense of the word. The
+traditions of accounting require
+him to list a combination of past
+and present facts and guesses
+together with some future hopes
+and with adjustments based on
+averages or estimated averages,
+and the result of the calculation
+yields a purely artificial surplus.
+The practice serves some practical purposes. Linking the plant
+figure to original costs and allowing depreciation on the basis of
+approved averages prevents the
+introduction of entirely fantastic
+figures. When an expense such
+as taxes has been incurred and
+the amount is unknown, a guess
+must be allowed for reserves. Receivables, as well as goodwill,
+are, like faith, necessarily the
+substance of things hoped for.
+But behind this list may be discerned the elements of value, the
+legal rights in which we may call
+property. Some of these elements are in land and buildings,
+some in movable tangible goods,
+some in intangibles.
+
+31
+
+National Law Library Volume 4 Business Law
+
+(2) EXISTING CONTRACTS. A
+mans reasonable expectation
+that strangers will not induce
+breaches of his existing contracts is an intangible interest
+now fully protected by law. This
+rule had its humble beginnings
+in the cases of interfering with
+or enticing ones servants. It
+gained clarity from the famous
+case of Lumley v. Gye3 in which
+two London music hall owners
+clashed over the attempt of one
+to induce a singer to jump her
+contract with the other. It has
+since had many repercussions in
+the growing law of labor relations, boycotts, and unfair competition. The rule does not insist
+that the contract be formal or of
+stated duration. In fact, it has
+been extended to cover cases
+where a contract was only in contemplation, and therefore, by
+another step, to the protection
+of goodwill in general.
+
+32
+
+(3) PROTECTION OF GOODWILL. (a) Definition of Goodwill.
+Goodwill has been variously defined. To the accountant it is apt
+to mean a capitalization calculated to represent the invisible
+source of otherwise unexplained
+surplus of earnings over the average in comparable industries.
+From this point of view a business with average earnings has
+no goodwill, and one that is losing money has, if anything, a
+negative goodwill. But to the
+business man it is quite evident
+that even the business which is
+losing money may have certain
+intangible, invisible and
+imponderable advantages that
+do not show currently in the
+earnings or that show in the form
+of a diminution of losses. Occasionally he calls on the lawyer
+to phrase such advantages in
+appropriate form for purposes of
+transfer. The lawyer is apt to begin with a concept of goodwill
+which likens it to the beaten path
+to ones business door. In fact,
+when this expression was first
+
+used in the law books it was no
+mere figure of speech. Goodwill
+was associated with a specific
+place. It was a kind of secondary
+interest in land. Hence, there still
+lingers the idea that it cannot be
+sold without some interest in
+land. This concept is not adequate to explain the facts of
+business. The goodwill of a
+professional man will follow him
+from office to office, as he moves.
+The owner of a route for hawking or milk delivery or service
+may be landless. Even a local
+store can move about considerably within a city without losing
+its identity or its patronage. A
+chain-store may have a beaten
+track, on the basis of other
+stores in the system, the moment
+it opens its doors in a new neighborhood.
+(b) Agreements in the Sale
+of a Business or Practice. Let us
+analyze what takes place when a
+doctor or lawyer undertakes to
+sell his practice. In the first
+place he probably agrees to introduce his successor to his clientele, or to permit his successor to so introduce himself. He
+may actually hand over his lease
+and assign other useful contracts. He may deposit his
+records with the new man. He
+may consent to the transfer of
+his telephone number. He probably will agree not to compete
+directly or indirectly with his successor or to interfere with the
+reasonable attempts of his successor to take his professional
+place. A similar set of agreements may very easily be conceived of in connection with the
+sale of a business. In fact, the law
+had occasion to analyze the sale
+of the goodwill of a business long
+before it was able to dissociate
+the idea from real estate. It had
+to decide, for example, whether
+a sale of goodwill implied, in the
+absence of specification, an
+agreement not to compete, and
+it leaned quite naturally to the
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+view that no such agreement was
+implied. It is, therefore, necessary in drawing agreements for
+the transfer of such intangible
+interests to describe fully what
+each side undertakes without
+relying too much on the denotation or connotation of such
+words as goodwill, route,
+practice, and their approximate
+equivalents.
+(c) Agreement Not to Compete. Another handicap that the
+law has imposed on efforts to
+traffic in goodwill grows out of
+the theory that an agreement not
+to compete or not to engage in
+the trade or profession for which
+one has been trained, is against
+public policy. The older cases
+followed this theory. Eventually,
+escapes were found by distinguishing between those agreements unlimited in time and
+space and those which were limited. An actual examination of
+the decisions shows that a failure to limit time made little or
+no difference so long as the
+space was limited. Some odd
+practices developed under this
+mechanical rule, such as agreements not to compete except in
+some out-of-the-way spot or
+some unlikely state or country.
+Finally the modern rule was
+evolved: that in every case the
+reasonableness of the restraint
+in view of the legitimate end to
+be accomplished must be the
+test of validity.4
+(d) Protection of Goodwill
+from Agent or Employee. In contrast to the reluctance of the law
+in facilitating the transfer of
+goodwill and in protecting it
+against onslaughts from without,
+stands the alertness of the law
+to protect it against attacks from
+within an organization. Ones
+agent owes the highest degree
+of loyalty and fidelity. This duty
+is interpreted as including the
+renunciation of any advantage
+inconsistent with the interests of
+
+the employer; it extends beyond
+the time of the termination of the
+agency, for the former employee
+is not free to utilize confidential
+information, or other similar advantage received while in the
+employ of his principal, in competition with that principal either
+on his own behalf or on behalf
+of a new employer. The fiduciary
+quality of the relationship invites
+the ready intervention of the
+courts of equity. Such a court will
+enjoin not only the agent or
+former agent from wrongfully
+utilizing his advantage, but also
+those conniving with him. Injunctions have protected trade secrets and trade lists, and prevented the solicitation of customers of the former employer.5 At
+times there is a difficulty raised
+in deciding whether the goodwill
+involved really belongs to the
+agent or to his employer. Consequently we occasionally see not
+only specifications in contracts
+on the subject, but ingenious
+efforts to direct the development
+of goodwill. A bond house, for
+example, in its desire to build up
+a regular clientele, may adopt
+rules and practices calculated to
+make the customer feel that he
+is the customer of the house and
+not of the salesman.
+
+(4) INTANGIBLES AS BUSINESS
+ASSETS. (a) Recognition by Law.
+Undoubtedly the laws recognition of intangibles as a kind of
+
+www.suspicions.com
+
+property has been accelerated by
+the desire of the state to make
+them bear a share of the property tax load. The methods employed have varied widely. At one
+time the prevailing method was
+merely to list on the tax duplicate such intangibles as claims,
+whether evidenced by writing or
+not, whether secured by mortgage or not, whether in the
+readily available form of bank
+deposits or in the more entangling combinations of shares of
+stock, corporate bonds, or beneficial interests in trusts or business ventures. This system was
+unsatisfactory because under it
+concealment was so easy and so
+generally connived at that scandalously small returns came in.
+Furthermore, it permitted the
+total escape of other important
+types of intangibles, such as
+goodwill. Eventually, elaborate
+schedules were worked out to
+get at the intangibles of business. Massachusetts, for example, led the way with a system
+for taxing corporations under
+which the total net value of the
+corporation minus the value of
+the tangible property taxed was
+looked upon as the intangible
+value, to be taxed as such. The
+coming of income taxes, both
+state and Federal, has tended to
+shift emphasis from taxes on intangibles.
+(b) Situs for Taxation of Intangibles. Nevertheless, nice legal questions still arise as to the
+situs for taxation of various kinds
+of intangible property. The law
+began its attack by relying on the
+maxim mobilia sequuntur personam, a maxim originally intended to cover tangible movable
+property, but eventually found
+too cumbersome a fiction for its
+original purpose. Hence, much
+learning was devoted to such
+questions as the situs of a debt
+or, rather, of a claim based upon
+a debt, the situs of a share of
+stock, or the sit us of a bank ac-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+(e) Protection from the
+Middleman; Refills. The coming
+of the middleman into business
+has created some new problems,
+which the law has not yet solved,
+in the protection of the goodwill
+of the manufacturer. His legal
+inability to impose restraining
+conditions on the power of the
+middleman to sell his goods has
+frequently placed his reputation
+at the mercy of the careless or
+unscrupulous dealer. A long debate has only recently come to
+an end as to whether it hurts the
+reputation of goods to use them
+as loss leaders or otherwise cut
+their prices. With the upholding
+by the Supreme Court of the
+United States of the Fair Trade
+
+Acts of California and Illinois,6
+and the adoption of similar acts
+by forty-one other states and the
+United States Congress,7 it is
+now possible at last for the
+manufacturer to control the retail sales price of his branded
+goods. But he is still battling with
+the middleman who finds it more
+profitable to sell non-genuine
+parts or refills for machines of
+various kinds. Unless a very
+good case is made out, such an
+attempt on the part of the manufacturer looks like full line forcing, a recognized variety of unfair competition. He is waging a
+losing battle with the substituter
+who openly recommends substitution, especially under the impact of the price maintenance
+laws. In his effort to prevent his
+packages from being refilled, he
+has called in not only the aid of
+the inventor (with non-refillable
+bottles for beverages and lubricating oil), but also of the legislator who lays down penalties on
+the misuse of milk bottles, or of
+the courts which once enjoined
+the refilling of containers marked
+Prest-o-lite with other makes of
+acetylene gas8 and now insist
+that the shells of Champion
+Spark Plugs shall have every vestige of their original makers
+identity sand-blasted off before
+they are sold after being reconditioned.9 To get the full protection of labeling, the manufacturer announces that his product is never sold in bulk. When
+it is sold in bulk or is rebottled
+or packaged by the middleman,
+trouble and recrimination of another sort arise. The courts are
+called on to prevent or at least
+regulate the use of the name of
+a perfume-maker on what purports to be his own product in
+packages and combinations that
+are not his.10
+
+33
+
+National Law Library Volume 4 Business Law
+
+34
+
+count. The logical answer, at the
+home (or perhaps on the person)
+of the owner, though it served
+as the basis of important constitutional decisions in its time,
+became less and less realistic as
+the indicia of such claims came
+to be looked upon more and
+more as things. Consider, for
+example, the history of the stock
+certificate. A century ago it was
+apparently so unimportant that
+none was generally given to the
+stockholder. The evidence of his
+ownership was in the books of
+the company. If for any reason
+he wanted a certificate, a simple
+writing was given to him which
+was precisely what the name indicates: a statement by the
+proper official of certification to
+whom it might concern that John
+Doe was on a certain day the
+owner of so many shares of the
+capital stock of the company.
+Whatever satisfaction, profit or
+standing this certificate gave
+John Doe, it did not enable him
+to consummate a sale of his interest without applying at the
+office of the company. He might
+lose or destroy his certificate
+without endangering his position. In fact, there is every reason to suppose he could easily
+procure another, and probably
+would have to get another if
+proof of his ownership at a later
+date became desirable. As larger
+corporations developed, it became customaryit is hard to
+say whento issue a certificate
+to every stockholder, and business men began to regard these
+tokens as something that ought
+to pass from hand to hand with
+proper endorsements on sale of
+the stock. They stood for the
+stock. Eventually they were made
+practically negotiable by statute.
+Transactions could be based
+upon their physical presence as
+the subject matter of pledges,
+exchanges, sales. The record in
+the books of the company,
+though still important for certain
+company purposes, becomes
+
+secondary so far as dealings between other parties are concerned. Under these circumstances it becomes easy for a
+resident of New Orleans to leave
+his securities in the hands of
+an agent in New York, where they
+can be produced instantaneously
+as needed for every business
+purpose. It would be straining
+the fiction too far to say that New
+York shall not tax this property
+within its borders because it is
+technically not there. Ultimately,
+the fiction yields to the new reality. Intangibles tend to be-come
+tangibles for practical purposes.
+(c) Valuation of Intangibles.
+In the famous Adams Express
+Company case,11 Ohio was upheld in its effort to find and appraise intangibles within the
+state. The total value of the express companys business was
+calculated on a reasonable basis,
+then the total amount of its annual business and the portion of
+the business done in Ohio was
+figured out. Then by the rule of
+threerather than by appraising
+the value of office furniture,
+trucks, printed forms, leases and
+other contractsthe value of the
+companys property in Ohio, that
+is, its going concern value, was
+estimated. This experiment was
+the forerunner of numerous successful attempts in other states,
+and a few unsuccessful ones, to
+evaluate intangibles by indirect
+but perfectly clear and reasonable methods.
+Of course, in order to take
+account of the value of intangibles for taxation or other
+purposes, it is by no means imperative that we think of intangibles as separate items. The
+question of value might be attacked quite as well by regarding much that we have discussed
+in this chapter as a phase of the
+visible tangible property before
+us. The difference between the
+going concern value of a business and its junk value is no
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+more striking than the difference
+in value between a live horse and
+a dead one; yet no appraiser or
+accountant would think of writing the life of the horse down on
+a separate line beneath the horse
+itself. The analogy goes a step
+further: it would be as impossible
+to sell going concern value separately from the business as it
+would be to sell the life of the
+horse to one customer and the
+horse to another. The analogy
+would be controlling, were it not
+for our accounting practices,
+many of which are ordained by
+law, which make it impossible to
+adjust values, once entered, by
+reason of such conditions as
+stoppage or acceleration of processes, or accretion of goodwill
+in most of the senses in which
+we have applied the term, or any
+turn of luck not duly labeled in
+the limited vocabulary of legal
+accountancy.
+
+1
+
+See VoL V.
+Hamilton-Brown Shoe
+Company v. The Wolf Brothers
+Company, 240 U.S. 251 (1916).
+3 2 E. & B. 216 (1853).
+4 General Bronze Corp. v.
+Schmeling, 208 Wis.
+(1932);
+L.B.P., p. 213.
+5 Essex Trust Company v.
+Enwright, 214 Mass. 507 (1913),
+L.B.P., p. 404.
+6 Dearborn Distributing Co. v.
+Seagram-Distillers Corp., 299 US.
+183 The Pep Boys, Manny, Moe &
+Jack, of California v. Pyroil Sales
+Co., Inc., 299 U.S. 198 (1936).
+7 See p. 16, supra, notes 6
+and 7.
+8 Prest-o-Lite Co. v. Avery
+Portable Lighting Co., 161 Fed.
+648 (1908).
+9 Champion Spark Plug Co. v.
+Emener, 16 F. Supp. 816 (1936).
+10 Prestonettes, Inc. v. Coty,
+264 US. 359 (1924).
+11 Sanford v. Poe, 165 U.S.
+194 (1897).
+2
+
+Chapter VI
+
+Credit Enforcement
+Machinery
+I. ORDINARY ENFORCEMENT
+MACHINERY
+
+1. Procedural Law
+and Business
+Every hindrance to enforcement of claims is a clog on credit;
+
+www.suspicions.com
+
+tracts that have some time to
+run, such as lessees, employers,
+advance purchasers of crops. On
+the other hand, those at the opposite side of each of the transactions and situations suggested
+are creditors, including, to single
+out only a few, the depositors in
+banks, the purchasers of insurance, the bondholders, landlords
+and employees under contracts.
+Obviously modern business
+leaves very few of us free to follow the advice of Polonius, Neither a borrower nor a lender be.
+2. Action in Court
+The principal burden of this
+credit structure must be borne,
+in the last analysis, on the assumption that the creditor can,
+if necessary, bring an action in
+court against the defaulting
+debtor and pursue his claim to
+judgment and satisfaction either
+by payment or through execution of the judgment by court
+officers who seize and sell the
+defaulters property. There are,
+to be sure, some other aids at
+the disposal of the creditor that
+serve as props of the credit system. In extraordinary cases, tribunals administering criminal
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+Credit, a very important part
+of the modern business system,
+is founded upon the enforcement
+machinery of the law. Yet this
+machinery has been but little influenced by modern business
+ideas. Procedure is essentially
+the same in our courts, whether
+damages are sought or not;
+whether we are concerned with
+buying and selling or with matters so far from the workaday
+world as the claim of a bishop
+for having been ousted wrongfully from his seat; whether there
+is an accusation of false advertising or of murder; whether equity is invoked to enjoin unfair
+competition or to test the constitutionality of a new marriage
+law. Procedure is thus not a distinctive part of Business Law. It
+is, however, within the scope of
+our purpose to study the impact
+of procedural law as we find it
+on Business.
+
+every facilitation is an encouragement to its use. Legislation calculated to protect the debtor,
+therefore, frequently operates as
+a boomerang by preventing the
+extension of credit to the prospective debtor. That we are all
+at one and the same time debtors and creditors became clear
+when the cheapening of the dollar was before the country as a
+live issue. In general, such a process might be expected to redound to the benefit of debtors
+who could wipe out their debts,
+as a result, with a smaller value
+(let us say in terms of food or
+labor) and, accordingly, to the
+detriment of creditors. Debtors
+include all those who have borrowed money on their farms, all
+who have bought on the installment plan, all who have run up
+troublesome bills, and tenants in
+arrears, to be sure; but as the
+rich and powerful can borrow
+more readily than the poor, by
+far the greatest group of debtors are corporations with large
+bond issues, the business borrower from commercial banks,
+the banks themselves, insurance
+companies, and prospectively all
+persons at the paying end of con-
+
+35
+
+National Law Library Volume 4 Business Law
+
+law, equity, bankruptcy law, administrative law, or association
+rules may be feared more by the
+debtor than an ordinary court
+awarding damages for a simple
+breach of contract. In still other
+cases, as we shall see in the next
+chapter, ingenious arrangements for the safeguarding of
+credit may overshadow the ordinary legal procedure. Finally, in
+petty credit transactions, the
+probable willingness of the
+debtor to pay rather than the
+creditors ability to make him pay
+is the basis of the extension of
+credit. Consumer credit is readily
+extended in cases where it is
+obvious that it would not pay to
+bring any action, both because
+of the cost in time, money and
+undesirable publicity and because liberal exemption laws
+would probably render the
+debtor execution-proof. Yet, after all these concessions are
+made, the simple action at law
+for damages for breach of contract remains the very backbone
+of the credit system.
+
+36
+
+(1) STEPS IN PROCEDURE It
+will, therefore, be worth while to
+make a special examination of
+some phases of this type of action here, though courts and actions at law in general are discussed more fully elsewhere in
+these volumes.1 In the simplest
+case, it is necessary (1) to have
+the adverse party brought into
+court, literally or figuratively, (2)
+to have the claim and the essential facts on which it is based
+stated, (3) to give the other side
+an opportunity to state its side
+of the case, (4) to focus the dispute in issues, whether of law
+or fact, (5) to have a trial of the
+issues, (6) to render judgment,
+and (7) to enforce the judgment.
+In addition to these essential elements, our legal tradition provides for one or more opportunities for judicial review in a higher
+tribunal and for various processes in aid of execution in the
+
+enforcement of a judgment. The
+function of each of these steps
+becomes painfully obvious in a
+poorly planned arbitration proceeding, when the parties persist
+in dragging in grievances that
+merely tend to confuse the merits of the case being heard, and
+the arbitrators are quite helpless
+about excluding them because
+no clear issue has been presented to them. On the other
+hand, too rigid an adherence to
+the rules of the game, as developed in the long history of
+court procedure, may result in
+various failures from the business mans point of view, notably excessive costs, delays, arbitrariness, and technicality, by
+which he means- not only excessive fussiness about trifles, but
+the actual sacrifice of the merits
+of the case to a rule that seems
+to have lost its sense if it ever
+had any.
+(2) PLEADING. The history of
+pleading, by which the lawyer
+means the steps in framing an
+issue, is in point. A century ago,
+common law pleading had developed a fine spun system of logic
+which forced parties to select
+single claims on a single narrow
+question squeezed out under
+that system. The simplification of
+pleading according to various
+patterns is an outstanding
+achievement of nineteenth century jurisprudence in England
+and America. Most jurisdictions
+today call for a clear and concise
+statement of the essential facts
+on which a claim is basednot
+the evidence of the facts nor
+mere inferences drawn from the
+facts, but, so far as such distinctions of degree can be made in
+practice, the operating facts
+themselves. The defense is to be
+stared in the same way, if it is a
+fact defense, so that a jury may
+pass on the truth of the allegations. If the parties agree on the
+facts, for the sake of argument,
+a question of law may be raised
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+for the court to decide by a demurrer, the legal equivalent of
+the colloquial, So what?
+In petty courts of limited jurisdiction, very informal pleadings will serve the purpose, such
+as oral pleadings or so-called
+notice pleadings, provided judicial discretion is preserved to
+demand bills of particulars when
+the course of justice will thereby
+be aided. Liberal delays, however, should not be granted
+where there is no possible element of surprise in the revelations of such a bill of particulars.
+(3) THE JURY. The traditional
+fact-finding tribunal of the common law courts, for both criminal and civil cases, is the jury.
+The literature in praise of the jury
+system is vast and venerable;
+that against it, somewhat meager and recent. It is gratuitously
+described as a bulwark of the
+Anglo-Saxon liberties, though
+the Anglo-Saxons had never
+heard of it. When it was introduced in England by the Conqueror, it looked very much like
+the Inquisition, with which it
+was, in fact, historically identical
+It was based on the Kings royal
+prerogative to force subjects
+under oath to tell him the truth,
+particularly unpleasant truths
+about one another. It was used
+in the compilation of Doomsday
+Book, the record devised to give
+the King all of his feudal dues
+from every manor. A century later
+it reappears as the Grand Jury, a
+group of citizens sworn to tell the
+King all the gossip that might
+lead to prosecutions. It appears
+in court as a fact-finding device,
+lent by the King, for a consideration, of course, some time after
+the Fourth Lateran Council of the
+Roman Catholic Church forbids
+priests to lend their aid to
+magico-religious trial by ordeal,
+1215. It had nothing to do with
+the feudal judgment of ones
+peers mentioned in the contemporary Magna Carta. It was not
+
+(4) EVIDENCE. (a) Three Principles. Out of the peculiarities of
+our jury system grows our law of
+evidence. The voluminous works
+of Greenleaf a century ago and
+Wigmore of our own day, to say
+nothing of Fletchers Encyclopedia of the Law of Evidence, supplemented by the quarrels we hear
+in the court room over the exclusion of bits of evidence and the
+large percentage of reversals in
+higher courts on the basis of errors in the law of evidence, are
+calculated to inspire the lawyer as
+well as the layman with awe in
+
+contemplation of this esoteric
+system of logic. It is no wonder
+that legislatures write into the
+laws governing administrative tribunals and arbitrators that they
+shall not be governed by technical rules of evidence. And yet the
+whole system is built on only
+three principles, all of which are
+alluded to every time a lawyer
+objects: Incompetent, irrelevant
+and immaterial. Two of these
+principles should give the layman
+very little trouble. What is irrelevant is a question of logic. What
+is immaterial, though remotely
+relevant, is a question of common
+sense. What is incompetent is a
+question of law.
+(b) The Principle of Competency. Hearsay, for example, may
+be both relevant and material.
+We rely upon it every day in the
+most important affairs of life. Yet
+the law keeps it from the ears of
+the jury because it is not comparable, for court purposes, to testimony under oath, subject to the
+great corrective of cross-examination. What makes the books on
+Evidence so voluminous is the
+exceptions and apparent exceptions to the hearsay rule. The
+business world is interested in
+many of these exceptions: the
+admissibility of books of account
+and other business records, the
+use of public records, the functions and limitations of expert
+testimony, the question as to
+what words in a transaction are
+part of the res gestae, what constitutes an admission against
+interest, and so on. Business
+men would, in general, throw the
+weight of their influence in favor
+of more liberal exceptions to the
+hearsay rule. They never resent
+the discrepancy between their
+way of doing things and the
+courts more than when challenged on the witness stand with
+what sounds like the comedians
+poser: Were you there ?
+Some other rules under the
+competency principle fare a little
+
+www.suspicions.com
+
+better in the opinion of the business man. The rule that calls for
+the best evidence, such as originals instead of copies, is entirely
+acceptable provided it permits
+the use of the next best evidence
+for what it is worth when a foundation is laid by giving a reasonable excuse for the non-appearance of the better type of evidence, and provided, further, no
+nonsense is indulged in about
+the first note made by a clerk
+being better evidence than the
+first permanent record made in
+the ordinary course of business.
+So there is little opposition
+to the rule excluding certain
+types of witnesses for reasons of
+public policy: the religious confessor or the husband or wife in
+certain cases. In general, modern
+law does not exclude, as the
+older law did, parties or other
+interested persons, for fear they
+will commit perjury. It listens to
+them and takes their interest
+into consideration in passing on
+their credibility. The principle of
+competency has been toned
+down to meet the understandings of the layman. Yet, one
+still hears too frequently from
+witnesses: Every time I began to
+tell what I knew one of the lawyers objected and the judge
+stopped me.
+3. Slow Legal Procedure
+(1) ADVANTAGES AND DISADVANTAGES. The tradition of
+our law that gives a man not only
+a day in court but two or three
+opportunities to be heard is
+tinged, like much of our procedure, with the philosophy of a
+much slower moving era than
+that in which we live. There are
+justifications for proceeding
+slowly, deliberately, thoroughly,
+in that small percentage of disputes that reach the courts, for
+the outcome must serve as a
+yardstick for innumerable similar transactions. Yet inequalities
+arise from the power of the rich
+to keep or threaten to keep a
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+even a fact-finding body for
+nearly three centuriesit was
+only a fact-declaring body, a
+group of sworn witnesses rather
+than sworn judges of fact. But it
+did, in course of time, serve its
+function well. It not only found
+facts of the kind entrusted to it
+efficiently, but bravely and independently. It always injected into
+the administration of justice an
+element of common sense that
+frequently saved the law in action from the effects of the folly
+of legislatures. It has served as a
+training school of citizenship. On
+the other hand, the system of calling in, qualifying and swearing
+twelve men who know nothing
+about a case and are not interested in it, in order to pass on a
+question of fact, is obviously cumbersome and expensive. If the fact
+is one beyond the ken of the ordinary man, if it involves business
+practices, figures, modern machinery, and the choice and application of standards of due care,
+ordinary prudence, proper vigilance, customary precautions,
+reasonable time and reasonableness in general, doubts may be
+expressed as to its fitness for its
+novel tasks, however infallible it
+might be in sensing where the
+blame lies in a street brawl. Finally, juries have prejudices and
+are not always beyond being
+reached and fixed, or swayed
+by resourceful lawyers.
+
+37
+
+National Law Library Volume 4 Business Law
+
+case in court beyond the endurance of the poor, whereas the
+poor man who loses a case in a
+lower court is practically precluded by the expense from carrying it higher. There are many
+situations in business in which
+any decision is better than no decision, and a prompt rough decision is better than a meticulously
+accurate one coming several
+years too late. Mercantile courts
+were noted for their speed in the
+Middle Ages, as Cokes amusing
+attempt to explain the name of
+the Pie-Powders Courts reminds
+us. He says that, in these courts,
+justice was dispensed as rapidly
+as dust is shaken from the foot.
+Incidentally, the same Lord Coke
+explains our whole system of
+appellate jurisdiction as traceable to the Law-Giver Moses.
+However valuable the system
+may be, particularly if limited to
+one trial and one review in ordinary cases, it is apt to be a hindrance in the simple cases on
+which the credit system is based.
+
+38
+
+(2) CUMBERSOME MACHINERY FOR COLLECTING JUDGMENTS. (a) Exemptions. Another
+source of dissatisfaction with the
+law is the cumbersomeness of
+the machinery for collecting
+judgments. Leniency with debtors has a good social basis. The
+civilized world has passed beyond the imprisonment of unfortunate debtors pictured in the
+novels of Dickens. It has, too,
+recognized the importance of
+preserving the self-respect of the
+individual and the integrity of the
+family through making some
+property execution-proof. In
+some places these exemptions
+are so liberal that the whole
+credit system must either be rebuilt on an artificial basis or
+abandoned for the ordinary citizen. Of course, by hiding behind
+a corporate entity, even the small
+business can create additional
+exemptions for itself.
+
+(b) Bankruptcy. The Federal
+Bankruptcy Law, with its recent
+amendments, sets still other
+practical limits to the collection
+of debts. The procedural details
+and other safeguards against
+abuse are too technical and too
+subject to change to warrant inclusion here, but the principle of
+modern bankruptcy is clear: the
+honest debtor who surrenders all
+his property to the court for administration for the benefit of his
+creditors can have his debts discharged and begin again with a
+clean slate. This idea differs in
+almost every detail from bankruptcy as it was understood in
+the Middle Ages. The thought
+then was rather to punish the
+debtor than to discharge him; to
+protect creditors rather than to
+salvage debtors; it was allied to
+criminal law rather than to the
+administration of estates; it was
+always involuntary, and it applied
+only to traders. The recent
+amendments further emphasize
+the rehabilitation motive and
+yield reorganization facilities
+rather than bankruptcy in the
+traditional sense. Yet the evolution of the new conceptions of
+bankruptcy have been so gradual
+and natural that it is generally
+believed the courts will find
+ample justification for this legislation by Congress in the Constitutional Clause that gives it
+the power to make uniform the
+law of bankruptcies throughout
+the United States.
+4. To Make Obligations
+Secure
+To escape the uncertainties
+of procedure and to make obligations, particularly credit obligations, more secure, business
+men have resorted to three types
+of arrangements:
+(1) Contractual modification
+of the details of procedural law.
+(2) Resort to arbitration.
+(3) The special devices for
+safeguarding credit, which are
+the subject of the next chapter.
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+(1) CONTRACTURAL MODIFICATION OF PROCEDURAL LAW.
+A generation ago courts were
+denying the power of contracting
+parties to interfere with the procedure of courts. They frowned
+on arbitration agreements which
+tended to oust the court of its
+jurisdiction. They resisted attempts to state in advance the
+amount to be paid to the injured
+party in case of a breach. They
+declared void any stipulation that
+a particular document shall be
+taken as conclusive evidence.
+Business men were reminded
+that they could not emancipate
+themselves from the rules of evidence or the statute of frauds or
+the statute of limitations which
+were not of their own making nor
+written for their own convenience. Nevertheless, courts
+have gradually been induced to
+take a different view and to make
+a distinction between those
+stipulations which tend to promote the general objects of court
+procedure, though they do so in
+a novel way, and those which
+tend in a contrary direction. They
+first made a distinction between
+stipulations for penalties, which
+they held void, and stipulations
+for liquidating damages, that is,
+estimating and agreeing upon
+such damages in advance, which
+they held valid. They have upheld
+waivers of many formalities, of
+summons, of trial by jury, of appeal or other review, of exemptions within limits, and of some
+defenses. They have upheld authorizations in notes and even in
+leases to confess judgments on
+the contracts in case of defaults.
+They have recognized liberally
+during litigation, and more sparingly if made in advance, stipulations as to evidence and admissions. They have recognized
+reasonable curtailments of the
+period of limitations. On the
+other hand, they have refused to
+recognize agreements to refer
+disputes to one of the parties or
+his nominee. They frown on
+
+stipulations that proof of one fact
+shall carry with it a conclusive
+presumption as to another. They
+have refused to recognize unreasonable limitations of the period
+within which an action may be
+brought. And some courts have
+steadfastly refused to recognize
+most of the waivers referred to
+above.
+
+1
+
+National Law Library Volume 4 Business Law
+
+(2) RESORT TO ARBITRATION. The legal position of arbitration has, in the period under
+review, been completely
+changed. The widely copied New
+York (1925) statute not only
+makes valid but irrevocable and
+specifically enforceable agreements to arbitrate future disputes under a contract, as well
+as submissions of pending disputes. These modern statutes
+further permit and encourage
+submission to arbitration of the
+fact disputes in a case already in
+court, they provide court aid for
+arbitration proceedings, including the subpoenaing of witnesses, ruling on questions of
+law, and the treatment of an
+award properly recorded as a
+judgment of the court. In general, however, these statutes are
+permissive, and whether they
+become widely useful or not will
+depend in the first instance on
+how well they are implemented
+by trade associations, chambers
+of commerce, and other voluntary groups, and, secondly, on
+the extent to which they can cut
+down the time, expense, publicity and animosity of court procedure without too great a sacrifice of the ultimate advantages
+of state or nation-supported
+courts.
+See General Index in Volume
+
+VI.
+
+www.suspicions.com
+
+Suspicions News Magazine
+
+39
+
+Chapter VII
+
+National Law Library Volume 4 Business Law
+
+Devices for Safeguarding
+& Facilitating Credit
+
+40
+
+1. Fundamental Ideas in
+Safeguarding Credit
+Credit is older than the legal devices for credit. Consequently, from the earliest days
+we find the ingenuity of the business man taxed to find ways of
+making himself safe in accepting a promise to pay rather than
+a payment. The pledge idea
+seems to have grown among all
+peoples in some such way. The
+man who agreed to hand over a
+cow with which he was not ready
+to part, might leave his horse
+instead with the understanding
+that he could eventually substitute the cow. Suretyship seems
+also to have grown up in this
+way. A friend or relative of the
+debtor was probably left in the
+custody of the creditor to be redeemed by the fulfillment of the
+obligation, whatever it might
+have been, for which the law furnished no adequate means of
+enforcement. The mortgage, at
+least the English mortgage, is on
+its face and perhaps was in its
+origin, the transfer of ones
+property to the creditor with the
+understanding that the property
+could be redeemed by the performance of the principal obligation.
+
+Even after the law developed
+to the point where a simple
+promise, made in the course of
+business, could be enforced, the
+many slips between the bringing of the action and the actual
+collection of the debt have
+caused business men to look
+around for various means of
+making assurance doubly sure.
+They have continued in the path
+blazed for them by those early
+pioneers who created in various
+times and places the pledge
+idea, the suretyship idea, and
+the mortgage idea. Thus, there
+has come into being a good deal
+of contractual self-help in the
+matter of credit, and various legal institutions have been
+wrested from their original setting to serve the purpose of
+making the creditor secure.
+These include, besides the
+pledge, suretyship, and mortgage already mentioned, various
+applications
+of
+agency,
+leaseholds, bailments, employment, partnership, the issuance
+of corporate securities, symbolic
+possession, negotiable paper,
+and anything else that the ingenuity of the business man can
+use as the basis for feeling safe
+in extending credit or, to view it
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+from the other angle, anything
+that his ingenuity can devise to
+induce another to become his
+creditor.
+Instead, therefore, of approaching the business problem
+of using the laws devices for
+credit from the point of view of
+the law, and studying each institution mentioned in this
+hodgepodge, let us rather approach the problem of credit
+from the business point of view
+and refer to these institutions
+only with regard to their adaptability for the purpose of safeguarding credit under various
+sets of facts.
+2. Credit from the Business
+Point of View
+From the business mans
+point of view there are two bases
+of credit outside of the ordinary
+legal procedure for the collection
+of debts: first, personal security
+and, second, real security. Both
+of these terms are used in their
+literal senses, that is, they refer
+to the simple fact that, in making a creditor more secure, we
+may resort either to reliance on
+an additional person or to some
+thing (res) which shall be put
+under the control of the creditor.
+
+(1) PERSONAL SECURITY.
+Personal security may be added
+to a debt in many ways, including guaranty of several types,
+suretyship, indemnity agreements, endorsement or other
+signing for accommodation of
+commercial paper, and del credere agency.
+
+(b) Suretyship. Ks proposition may be varied ever so little
+in words, with rather startling
+legal effects. He may authorize
+the giving of the goods to U, to
+be charged jointly to K and U.
+This we may call suretyship
+though there is by no means
+unanimity among law writers in
+the use of this word, as some
+appropriate it for what we have
+called guaranty of payment. In
+the situation we have described,
+we simply have a contract with
+two promisors on one side instead of one. Between these two
+promisors the situation is thoroughly understood. If K pays any
+part, U must indemnify him. If U
+pays, the matter rests there. If
+the promisee knows the nature
+of their relation, he will have to
+proceed with the same type of
+caution as called for in the case
+of guaranty. Changing the risk
+or the burden of the surety without his consent will let him out.
+(c) Endorsement or Other
+Signing of Commercial Paper. K
+can become a surety for U by
+signing a promissory note along
+with him.. Or he may sign the
+note alone, making it payable to
+U, and U may endorse it to the
+creditor. In either case, U, as a
+signer of the note, is absolutely
+bound to pay and is not entitled
+to the benefit of the conditions
+enjoyed by the endorser whom
+we have described as a con-
+
+www.suspicions.com
+
+ditional guarantor. In fact, the
+creditor can get the benefit of
+two names on a negotiable instrument, regardless of the position that the parties, for convenience, choose for their
+names, subject to the requirements imposed on the creditor
+by the negotiable instrument
+law and the stipulations in the
+document. Thus, K may appear
+as one of the persons unconditionally liable (the maker of a
+note or the acceptor of a bill of
+exchange), or as one conditionally liable (the drawer of a bill of
+exchange or the endorser of either type of instrument).
+(d) Indemnity and Del Credere Agency. K may get into the
+picture of Us debt in a very different way, as an insurer of a
+business man against certain
+credit losses, and U may be only
+one of the debtors. Such a contract is one of indemnity, and is
+subject to the laws of insurance.
+Again, K may be an agent selling the goods of D on credit to
+a group of customers chosen
+and approved by K, with the understanding that he is to be responsible for U as one of these
+customers. K is then a del credere agent whom the law so far
+distinguishes from a guarantor
+as not to include him under the
+Statute of Frauds as a person
+agreeing to answer for the debt
+of another.
+All types of personal security have some of the weaknesses of the ordinary procedure at law because they are
+enforced through it. Furthermore, in the interpretation of
+these contracts there is a strong
+tendency to give the benefit of
+every doubt to the person who
+presumably got no advantage
+from the transaction. Thus, on
+such questions as whether an
+offer of guaranty called for a
+notice of acceptance, whether
+the completed contract called
+for a notice of each action un-
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+(a) Guaranty. These plans
+may be illustrated simply by assuming that two men enter a
+store together for the purpose
+of buying goods for one of them.
+Let us designate them as K,
+standing for Known, and U,
+standing for Unknown. Ks
+credit is good, but his friend U
+is the one who wants the goods.
+K may, of course, say: Give U
+the goods and send me the bill.
+This transaction does not come
+within any of the classes, as U
+is outside of the contract altogether. But K is more likely to
+say: Give U credit. If he does not
+pay, I shall. This is a guaranty
+of payment. It must be reduced
+to writing and signed by K in
+order to be binding under the
+Statute of Frauds. Again, K may
+say: Give U credit. If you cannot collect from him, or if he
+becomes insolvent, I shall pay.
+This is a guaranty of
+collectibility or of solvency. It,
+too, requires writing. But, obviously, in order to complete his
+right of access to K, one must
+do or show a great deal more
+than in the case of guaranty of
+payment. Guaranties may be
+made conditional upon the giving of certain notices, the keeping of certain records, the exercise of diligence in various ways
+and, of course, in such cases the
+law insists on the fulfillment of
+all conditions before it will hold
+the guarantor. A simple endorsement of negotiable paper,
+we shall see, carries with it such
+a conditional guaranty: if demand is made on the person
+primarily liable, in the right way,
+at the right place, at the right
+
+time, and he refuses to pay, and
+if the requirements laid down in
+the negotiable instrument law
+for making a proper record and
+giving notice of the facts are
+complied with, the indorser will
+pay. In all of these cases of guaranty, it is to be noted that there
+are two contracts to pay: first,
+that of the principal debtor; second, the collateral contract of
+the guarantor, which must in itself satisfy all the requirements
+of the laws of contract to be
+complete.
+
+41
+
+National Law Library Volume 4 Business Law
+
+42
+
+der it, notice of every default,
+and other precautions for the
+safeguarding of the interests of
+the guarantor, whether the contract was meant to cover a single
+transaction or to run for a series of transactions, whether a
+contract was a guaranty of payment or only a guaranty of solvency, all doubts are resolved in
+favor of the guarantor. Such
+strict care is enjoined for the
+benefit of the guarantor, surety,
+accommodation party, and others similarly situated, except
+perhaps the paid surety company, and the defenses allowed
+by courts in such cases at times
+seem so unreasonable to business men that the use of personal security is limited in practice to comparatively few situations, and in most of these the
+party secondarily liable is really
+an interested party: for example,
+a large stockholder of a corporation who endorses its paper, a contractor who stands
+behind the subcontractor so as
+to enable him to get his necessary materials, the seller of
+goods who endorses his
+customers trade acceptance to
+his bank, the automobile dealer
+who assumes a contingent liability for his customers account to
+the financing company.
+(2) REAL SECURITY. Real security (dependence on things)
+presents an even larger variety
+of frameworks for credit than
+the personal arrangements already discussed. Unlike these,
+which are based almost entirely
+upon the contract idea, the real
+security devices come from
+widely scattered parts of the
+lawfrom Real Property, Personal Property, Contracts, Corporations, Agency, Trusteeship,
+Public Records, Negotiable
+Documents of Title, and from
+Mortgages, which latter is compacted of several of these and
+with peculiarities of its own. We
+shall, therefore, have to make
+
+brief excursuses into remote
+parts of substantive law in explanation of some of the common plans.
+Let us first divide into three
+classes the holds which a creditor may have on things belonging to the debtor: (a) possessory
+holds, (b) title holds, and (c)
+combinations of these with
+other means of control.
+(a) Possessory holds will include all situations in which the
+actual physical control of the
+property passes to or remains
+in the creditor, even if, in addition, elements of the other
+modes of control are included in
+the plan. Here we may include
+possessory liens, pledges of
+things, the deposit of symbols
+or documents of title or of documents carrying rights with them
+as collateral security. Sub-varieties of each of these or special
+contractual modifications of
+them exist and can be added
+without number. For our purposes the main features of their
+commonly recurring forms will
+suffice.
+Possessory Liens. It was formerly said that liens exist by virtue of statute, by common law
+or custom or by contract, but the
+nineteenth century was so contract-minded that it reduced
+practically all cases to contract,
+express or implied, and sought
+only the evidence of some of its
+implications in statutes, common law, or custom. Furthermore, it was anciently assumed
+that a claim under a lien was one
+thing and a right of action in
+contract was another, and that
+the two would not coexist. But,
+again, the all-pervasive theory of
+contract prevailed, and liens are
+now looked upon as secondary
+supports for contracts in every
+case.
+The eighteenth century lawyer could enumerate the types
+of persons who had liens and
+say whether the liens were spe-
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+cialthat is, covering only the
+goods involved in the transaction out of which the charge had
+grown, or generalthat is, covering newly acquired goods for
+back-balances. The carrier, the
+innkeeper, the repairman, the
+animal trainer, and a host of others, had special liens. The wharfinger, the factor, and the packer
+had general liens. The agister
+lost his lien through a curious
+mistake. The first printed case
+on the subject was one of contract, and, therefore, the agister in that case had no lien. Two
+centuries later, the courts had
+forgotten the learning necessary
+to explain that reasoning, and
+it was dogmatically said that the
+agister had no lien at common
+law. This rule made generalization difficult, but finally the text
+writers rose to the occasion and
+laid it down thus: whoever adds
+to the value of the thing entrusted to his care has the right
+to hold it until he is paid for his
+services. As to general liens,
+they said: whoever necessarily
+parts with goods in the course
+of giving the service for which
+they were entrusted to his care
+may have a lien for his balance
+on other goods of the same
+owner coming into his hands.
+Today we have many possessory liens created or recognized
+by statute, such as the
+garagemans lien, the unpaid
+sellers lien, and more that are
+expressly covered by contract,
+such as landlords liens, stockbrokers liens, and, to jump to
+another extreme, the analogous
+stipulation laid down by a college that no degree will be
+granted to a student until all
+arrearages are paid.
+A bare possessory lien is a
+narrow, precarious right. In itself it carries no assurance of
+payment unless or until the
+debtor becomes sufficiently eager to get his goods back to be
+moved to redeem them. The fact
+that today the creditor may sue
+
+banker and the broker allow
+them to sell out their borrowers with or without notice, at
+public or private sale, to themselves or others practically
+whenever the collateral holder
+becomes sufficiently alarmed to
+deem such action necessary for
+his own protection. They further
+generally stipulate that the
+thing pledged may be utilized as
+security for other claims of the
+pledgee against the pledgor;
+that the pledgee may repledge
+the collateral; that the pledgee
+may, but need not, take steps
+to protect the interest pledged
+or permit the pledgor to take
+action with reference to it when
+its value is endangered by a
+reorganization of the corporation issuing the security, but
+that he may require the pledgor
+to do so; that the pledgee shall
+be free from the ordinary obligation to account to the pledgor
+for any surplus realized, and
+that the pledgee be free of
+blame for all manner of conduct
+or misconduct.
+The proponents of such
+drastic forms for signature have
+something to say in self-defense. When security values begin to topple, quick action may
+be essential not only to protect
+the banks interest but also the
+interests of the pledgor and of
+the public whose money the
+bank controls. Furthermore,
+banks may be trusted not to use
+thoughtlessly all the extreme
+powers entrusted to them. Prudence dictates that they be
+armed with powers for emergencies though such emergencies,
+admittedly, rarely occur. In any
+event, courts may be relied on
+to put a reasonable interpretation on such documents confessedly drawn by one side and
+signed on the dotted line by the
+other. Finally, if there is a market quotation on the securities
+pledged, there is no danger of
+arbitrariness in the fixing of a
+sales price, regardless of how
+
+www.suspicions.com
+
+the sale is made. In view of the
+flood of complaints that reached
+the courts after the stock crash
+of 1929, it is impossible to say
+that this reassurance is very
+reassuring. Brokers contracts
+are already the subject of study
+by stock exchanges and administrative commissions, and
+bankers agreements may well
+be submitted to voluntary or
+compulsory revision.
+Documents of Title. Besides
+securities in the sense of stocks
+and bonds, other valuable papers, particularly documents of
+title, serve as the basis of banking credit. Under widely prevailing statutes today not only bills
+of lading and warehouse receipts may easily be made negotiable by making the goods
+deliverable to ones order, or by
+otherwise following the statute,
+but practically any thing may be
+covered by a negotiable document of title. The Uniform Sales
+Act says: A document of title in
+which it is stated that the goods
+referred to therein will be delivered to the bearer, or to the order of any person named in such
+document is a negotiable document of title.1 Such documents
+are particularly useful in shipping goods great distances, especially in foreign trade, where
+it is possible to attach the document representing the goods to
+a draft (bill of exchange) to be
+delivered on payment of the
+draft, or in more complicated
+cases to attach papers representing Cost, Insurance and
+Freight (C.I.F.), exchange, collection and interest, none of which
+need be paid for by the customer until the goods are available, while the bankers who
+make the necessary advances
+are secured by holding the papers. Longer financing of goods
+in a warehouse is possible with
+such paper, which enables the
+bank to substitute the drawers
+in its safe for a lumber room, in
+the original sense of the term,
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+on his contract leads inevitably
+to some kind of procedure
+whereby the lien can be utilized
+to satisfy the judgment. In other
+words, modern law provides differently in different jurisdictions
+for some sort of foreclosure of
+a possessory lien after due notice to the owner of the goods.
+Generally a public sale is required and a strict accounting
+is expected of the surplus
+yielded by the sale over and
+above the debt and the costs of
+procedure. A lien of this kind is
+easily lost; for example, it is forfeited if possession is given up
+and does not revive on retaking
+possession; it is lost if the lienholder is guilty of a conversion
+of the goods, and apparently he
+is guilty of a conversion if he
+withholds the goods from the
+owner without specifying the
+lien as his reason for withholding them.
+Lien law is important in a few
+businesses which deal with a
+constantly shifting traveling
+public: carriers, innkeepers, garage-men (which take the place
+of the smiths of Blackstones
+day), and repairmen generally.
+Pledges of Things; Collateral
+Securities. The lien, with its
+modern equipment for enforcement, closely resembles the
+pledge, whether it be the pawn
+in the pawnshop or the collateral security in the vaults of a
+bank or brokerage house. There
+is a thought-provoking difference between the evolution of
+the pawnbrokers pledge and
+the banks. The former has been
+governed and standardized for
+many years by the action of the
+state. The latter has developed
+through rather one-sided contracts written by the banks and
+brokers. Hence the pawnbroker,
+in order to convert his pledge
+into money, must proceed step
+by step in a manner calculated
+to give his clients a good deal
+of consideration, whereas the
+pledge agreements of the
+
+43
+
+such a room as that in which the
+Lombards, Englands medieval
+bankers, kept their pledges.
+
+National Law Library Volume 4 Business Law
+
+(b) Title Holds. All possessory liens suffer from one great
+defect that greatly limits their
+practical usefulness in business.
+They withdraw the goods that
+are used as the basis for credit
+from use and to a great degree
+from the channels of commerce.
+Hence, when a floor plan of
+credit is needed, that is, a plan
+wherein the goods are to remain
+on the floor of the dealer who is
+being financed, or any plan of
+consumer use while the goods
+are being paid for, a title hold
+must be given to the creditor,
+instead of a possessory hold.
+The prototype of title holds is
+the real estate mortgage,
+though its imitations, such as
+liens on real estate, chattel
+mortgages, conditional sales,
+leases with privilege of purchase, trust receipts, consignment arrangements for credit
+purposes, have deviated, at
+times, pretty far from type. In
+some cases the title is actually
+transferred; in others only an incumbrance is created.
+
+44
+
+(c) Real Estate Mortgages.
+The real estate mortgage is in
+form a deed which conveys to
+the creditor the property that
+serves as security for credit. At
+the end it recites that, if the debt
+in question is paid in accordance
+with an agreement, the deed
+shall be null and void; otherwise,
+however, it shall remain in full
+force and effect. Though there
+is considerable diversity in the
+theory of mortgages adopted by
+the several states, no Englishspeaking jurisdiction gives literal effect to this language. It
+has been said rightly that no
+man by the light of nature can
+understand an English mortgage. The reason for the obscurity lies in the very laudable efforts of equity to mitigate the
+
+rigor of the law by avoiding the
+forfeiture which the language of
+a mortgage involves. Ordinarily
+the property is worth more than
+the amount loaned on it, and it
+would be an unfair penalty, for
+failing to pay the debt on a particular day, to make the entire
+property forever that of the
+creditor and beyond redemption. Equity has, from an
+early period, taken the view that
+the true meaning of the parties
+was that the property should
+serve as security for the payment of the debt and nothing
+else. It has, therefore, created a
+special right for the delinquent
+debtor, called an equity of redemption. This simply means
+that even after default he can
+come in and pay the amount he
+owes plus interest and possibly
+damages, and thereby redeem
+his property. If he fails to do so
+within a reasonable time, it is,
+of course, desirable to provide
+some means of cutting off the
+equity of redemptionthat is to
+say, foreclosure. The term foreclosure has been used in various jurisdictions for a large variety of procedures ranging from
+formal notices, followed by a
+lapse of time, to public sales
+with or without judicial procedure. In general, however, the
+tendency of American law is to
+make it unlikely that the mortgagee can make a profit out of
+the forfeiture clause in a mortgage by giving effect to the
+simple language of the document and converting what was
+once a mortgage into a deed.
+Passing of Title. The diversity of the various jurisdictions
+is illustrated chiefly in the question whether the so-called condition at the end of a mortgage
+is to be looked upon as a condition precedent or a condition
+subsequent to the passage of
+title from the borrower to the
+lender. In form it looks very
+much like a condition subsequentthat is to say, it looks as
+
+Suspicions News Magazine
+
+www.suspicions.info
+
+if title was intended to pass to
+the mortgagee immediately
+upon the execution of the mortgage with the expectancy that,
+in the normal course of events,
+it would pass back to the mortgagor. And so most of the older
+jurisdictionsthe Eastern
+statesseem to hold. The opposite view, which seems to prevail in the West, is that no title
+passes until default or, according to some states, until foreclosure. The consequences of
+this diversity of view are more
+technical than substantial. Thus,
+if the mortgagee is the title
+holder, the mortgagor who remains in possession is pretty
+clearly a tenant, and the legal
+relations between the two are
+viewed accordingly. If, on the
+other hand, the mortgagor still
+has the title, whatever he is, he
+is not a tenant, and other analogies must be resorted to in
+working out the relative rights
+of the parties. In actual practice,
+the difference is likely to be mitigated by the terms of the contract written into the mortgage
+which may state rather fully the
+claims that each shall have
+against the other under every
+imaginable set of factsin other
+words, the mortgage, like many
+other legal instruments, has
+gone through a development
+from status to contract.
+Modern law views the mortgage as an incident to the debt
+which it secures, whether that
+debt is evidenced by a promissory note or other type of document or merely existent on the
+basis of an ordinary contract.
+Consequently, the holder of the
+mortgage generally has the option of bringing an action on the
+debt without regard to the mortgage, or of proceeding on the
+basis of the mortgage, or of doing both simultaneously. Of
+course, he is entitled to only one
+satisfaction of his claim. If the
+mortgage property brings a surplus over and above the claim
+
+words is likely to be different in
+different jurisdictions, and the
+presumptions indulged in may
+differ to such an extent that the
+transfer of this type of interest
+must be looked upon as a very
+technical branch of conveyancing.
+It is, of course, possible not
+merely to convey the interest
+that remains in a mortgagor but
+also to mortgage itthat is to
+say, to put a second or third
+mortgage on the property. Obviously in those jurisdictions in
+which the first mortgage transfers title to the mortgagee, some
+other interpretation than that of
+the title theory is necessary to
+explain the situation of the parties to a second mortgage. It
+becomes very similar to the first
+mortgage in jurisdictions not
+accepting the title theory. This
+difference between a first and
+second mortgage has led to
+some curious doctrines, such as
+that of tacking, under which it
+is possible for a first mortgagee
+to acquire a third mortgage
+which, by reason of his superior
+position as a title holder, becomes a part of his interest in
+the land, and thereby obtain priority over a strangers second
+mortgage. There is a great tendency, however, to depart from
+such technical theories under
+modern statutes.
+In the real estate mortgage,
+as in all arrangements that
+merely encumber the title of
+property without affecting its
+temporary possession, there is
+danger that a stranger dealing
+with the apparent owner of the
+property in possession might
+find himself in competition with
+the mortgage claimant. If the
+strict letter of the old law is followed in such a case, the
+stranger is defeated and the
+owner of the secret lien prevails.
+Caveat emptor. The desire of the
+business world to make indefeasible transactions entered into
+in the ordinary way in good faith
+
+www.suspicions.com
+
+has, in this case as in others already studied, been recognized
+by the law and written into the
+provisions for registration. The
+mortgagee is expected to put
+his mortgage on record where
+it will be found as an encumbrance upon the property by
+anyone examining the title. If he
+fails to do so his mortgage is not
+rendered invalid, but it is simply dealt with as if it were
+fraudulent so far as innocent
+strangers are concerned. The
+registration laws of the several
+states differ from one another
+on many important points. Thus,
+some allow a short period for
+registration; some give the same
+effect to actual notice or constructive notice that they give to
+registration in saving the secret
+lien; still others make the moment of registration operate mechanically as the basis of priorities claimed under registered
+documents.
+(d) Chattel Mortgage. By
+analogy to the real estate mortgage there has developed in
+more recent times the chattel
+mortgage. In some states the
+analogy is very close, but generally the force of business necessity, as well as the relative
+simplicity of the law of transfer
+of interests in things, has led to
+considerable differences both in
+the formality and in the operation of chattel mortgages. Thus,
+it is generally true that, instead
+of registration, the comparatively inexpensive and simple
+expedient of filing is sufficient.
+The actual document need not
+be executed with the formality
+of a real estate deed, but only
+with that of a bill of sale or similar document for the conveyance
+of an interest in personal property. On the other hand, a chattel mortgage is expected to be
+comparatively short-lived and
+not a part of a permanent systematic legal record of the history of the thing; hence it is
+
+Suspicions News Magazine
+
+National Law Library Volume 4 Business Law
+
+and court costs, the debtor is
+entitled to an accounting. If, on
+the other hand, the mortgage
+property brings less than the
+claim, and the action included
+the entire claim, a deficiency
+judgment may be given for the
+balance.
+Since the mortgage is merely
+incidental to the debt, and since
+debts, particularly those evidenced by negotiable instruments, are easily transferred
+by creditors, it follows that the
+law must provide in some way
+for the transfer of the
+mortgagees interest. The exact
+formula in any state will depend,
+in the first instance, on whether
+the mortgagee is looked upon
+as the holder of the title to the
+property in question or not. In
+any event, the tendency today
+is to simplify the process of
+transferring the mortgagees
+interest, or even to look upon it
+as passing, in the eyes of equity,
+along with the debt where no
+formal transfer has taken place.
+The mortgagors interest is likewise transferable. Great caution
+must be exercised, however,
+that in transferring it one does
+not unintentionally pass to the
+purchaser of it an obligation personally to pay the entire debt.
+That is to say, the mortgagor
+may transfer his interest in the
+land subject to
