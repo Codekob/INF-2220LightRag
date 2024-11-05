@@ -19,7 +19,7 @@ function App() {
           mode: mode
         }),
       });
-
+      console.log(response);
       const data = await response.json();
       setAnswer(data.data);
       console.log(data);
