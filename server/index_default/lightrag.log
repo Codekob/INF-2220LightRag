@@ -68,3 +68,86 @@
 2024-11-05 12:46:51,756 - lightrag - INFO - Inserting 39 vectors to chunks
 2024-11-05 12:46:56,006 - lightrag - INFO - [Entity Extraction]...
 2024-11-05 12:52:30,924 - lightrag - INFO - Writing graph with 6683 nodes, 661 edges
+2024-11-05 15:19:55,478 - lightrag - INFO - Logger initialized for working directory: index_default
+2024-11-05 15:19:55,479 - lightrag - DEBUG - LightRAG init with param:
+  working_dir = index_default,
+  chunk_token_size = 1200,
+  chunk_overlap_token_size = 100,
+  tiktoken_model_name = gpt-4o-mini,
+  entity_extract_max_gleaning = 1,
+  entity_summary_to_max_tokens = 500,
+  node_embedding_algorithm = node2vec,
+  node2vec_params = {'dimensions': 1536, 'num_walks': 10, 'walk_length': 40, 'window_size': 2, 'iterations': 3, 'random_seed': 3},
+  embedding_func = {'embedding_dim': 3072, 'max_token_size': 8192, 'func': <function embedding_func at 0x7f970ad360e0>},
+  embedding_batch_num = 32,
+  embedding_func_max_async = 16,
+  llm_model_func = <function llm_model_func at 0x7f970ad36050>,
+  llm_model_name = meta-llama/Llama-3.2-1B-Instruct,
+  llm_model_max_token_size = 32768,
+  llm_model_max_async = 16,
+  llm_model_kwargs = {},
+  key_string_value_json_storage_cls = <class 'lightrag.storage.JsonKVStorage'>,
+  vector_db_storage_cls = <class 'lightrag.storage.NanoVectorDBStorage'>,
+  vector_db_storage_cls_kwargs = {},
+  graph_storage_cls = <class 'lightrag.storage.NetworkXStorage'>,
+  enable_llm_cache = True,
+  addon_params = {},
+  convert_response_to_json_func = <function convert_response_to_json at 0x7f964e6f1000>
+
+2024-11-05 15:19:55,482 - lightrag - INFO - Load KV full_docs with 2 data
+2024-11-05 15:19:55,487 - lightrag - INFO - Load KV text_chunks with 83 data
+2024-11-05 15:19:55,488 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-05 15:19:55,767 - lightrag - INFO - Loaded graph from index_default/graph_chunk_entity_relation.graphml with 6683 nodes, 661 edges
+2024-11-05 15:23:57,842 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:23:59,799 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 15:24:19,434 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:24:20,888 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 15:27:03,079 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:27:04,535 - lightrag - INFO - Local query uses 60 entites, 111 relations, 3 text units
+2024-11-05 15:27:08,870 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:27:10,093 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 15:27:34,303 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:27:35,943 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 15:27:43,126 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:27:56,563 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:27:57,467 - lightrag - INFO - Truncate 12 to 3 chunks
+2024-11-05 15:30:39,805 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:33:19,868 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 15:33:21,260 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 16:29:10,351 - lightrag - INFO - Logger initialized for working directory: index_default
+2024-11-05 16:29:10,353 - lightrag - DEBUG - LightRAG init with param:
+  working_dir = index_default,
+  chunk_token_size = 1200,
+  chunk_overlap_token_size = 100,
+  tiktoken_model_name = gpt-4o-mini,
+  entity_extract_max_gleaning = 1,
+  entity_summary_to_max_tokens = 500,
+  node_embedding_algorithm = node2vec,
+  node2vec_params = {'dimensions': 1536, 'num_walks': 10, 'walk_length': 40, 'window_size': 2, 'iterations': 3, 'random_seed': 3},
+  embedding_func = {'embedding_dim': 3072, 'max_token_size': 8192, 'func': <function embedding_func at 0x7ff01d51a0e0>},
+  embedding_batch_num = 32,
+  embedding_func_max_async = 16,
+  llm_model_func = <function llm_model_func at 0x7ff01d51a050>,
+  llm_model_name = meta-llama/Llama-3.2-1B-Instruct,
+  llm_model_max_token_size = 32768,
+  llm_model_max_async = 16,
+  llm_model_kwargs = {},
+  key_string_value_json_storage_cls = <class 'lightrag.storage.JsonKVStorage'>,
+  vector_db_storage_cls = <class 'lightrag.storage.NanoVectorDBStorage'>,
+  vector_db_storage_cls_kwargs = {},
+  graph_storage_cls = <class 'lightrag.storage.NetworkXStorage'>,
+  enable_llm_cache = True,
+  addon_params = {},
+  convert_response_to_json_func = <function convert_response_to_json at 0x7fef60fe9000>
+
+2024-11-05 16:29:10,357 - lightrag - INFO - Load KV full_docs with 2 data
+2024-11-05 16:29:10,365 - lightrag - INFO - Load KV text_chunks with 83 data
+2024-11-05 16:29:10,366 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-05 16:29:10,750 - lightrag - INFO - Loaded graph from index_default/graph_chunk_entity_relation.graphml with 6683 nodes, 661 edges
+2024-11-05 16:34:40,055 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 16:34:42,249 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 16:34:47,129 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 16:35:02,771 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 16:35:10,342 - lightrag - INFO - Creating a new event loop in a sub-thread.
+2024-11-05 16:35:11,679 - lightrag - INFO - Local query uses 60 entites, 57 relations, 3 text units
+2024-11-05 16:38:03,166 - lightrag - INFO - Creating a new event loop in a sub-thread.
