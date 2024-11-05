@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import os
 from dotenv import load_dotenv
@@ -18,7 +19,17 @@ nest_asyncio.apply()
 load_dotenv()
 
 DEFAULT_RAG_DIR = "index_default"
-app = FastAPI(title="LightRAG API", description="API for RAG operations") 
+app = FastAPI(title="LightRAG API", description="API for RAG operations")
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000", "http://localhost:3001"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 embedding_key = os.getenv("EMBEDDING_KEY")
 AZURE_OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
