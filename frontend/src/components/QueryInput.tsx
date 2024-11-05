@@ -30,7 +30,7 @@ const QueryInput: React.FC<QueryInputProps> = ({ onSubmit, isLoading }) => {
         <textarea
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="How do I evade taxes in Germany as much as possible? Given that..."
+          placeholder="How do I evade taxes in the USA? Given that..."
           rows={4}
         />
         <div className="controls">
