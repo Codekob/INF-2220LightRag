@@ -18,5 +18,6 @@ nest-asyncio
 fastapi
 uvicorn
 pydantic
+python-dotenv
 
 # lmdeploy[all]

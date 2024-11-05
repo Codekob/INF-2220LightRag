@@ -9,7 +9,7 @@ function App() {
   const handleSubmit = async (query: string, mode: string) => {
     setLoading(true);
     try {
-      const response = await fetch('http://localhost:8020/query', {
+      const response = await fetch('http://127.0.0.1:8020/query', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
