@@ -6,16 +6,9 @@ function App() {
   const [answer, setAnswer] = useState<string>('');
   const [loading, setLoading] = useState(false);
 
-  const handleSubmit = async (query: string, file: File | null, mode: string) => {
+  const handleSubmit = async (query: string, mode: string) => {
     setLoading(true);
     try {
-      const formData = new FormData();
-      formData.append('query', query);
-      formData.append('mode', mode);  
-      if (file) {
-        formData.append('file', file);
-      }
-
       const response = await fetch('http://localhost:5000/query', {
         method: 'POST',
         headers: {
@@ -39,9 +32,9 @@ function App() {
 
   return (
     <div className="App">
-      <h1>AI Query System</h1>
-      <QueryInput onSubmit={handleSubmit} />
-      {loading && <div>Loading...</div>}
+      <h1 className="title">Legal Vantage</h1>
+      <h2 className="subtitle">What legal knowledge do you seek?</h2>
+      <QueryInput onSubmit={handleSubmit} isLoading={loading} />
       {answer && (
         <div className="answer-container">
           <h2>Answer:</h2>

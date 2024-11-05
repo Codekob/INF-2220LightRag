@@ -1,47 +1,57 @@
 import React, { useState } from 'react';
 
 type QueryInputProps = {
-    onSubmit: (query: string, file: File | null, mode: string) => void;
+    onSubmit: (query: string, mode: string) => void;
+    isLoading: boolean;
 };
 
-const QueryInput: React.FC<QueryInputProps> = ({ onSubmit }) => {
+const modeDescriptions = {
+  naive: "Direct question-answering without context. Best for simple, factual queries.",
+  local: "Uses local document context for answers. Ideal for specific document-based questions.",
+  global: "Searches across all available documents. Best for broad legal knowledge queries.",
+  hybrid: "Combines local and global context. Provides most comprehensive answers with balanced context."
+};
+
+const QueryInput: React.FC<QueryInputProps> = ({ onSubmit, isLoading }) => {
   const [query, setQuery] = useState('');
-  const [file, setFile] = useState<File | null>(null);
-  const [mode, setMode] = useState('hybrid'); // Default mode
+  const [mode, setMode] = useState('hybrid');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    onSubmit(query, file, mode);
+    onSubmit(query, mode);
   };
+
+  // Check if query is empty or only contains whitespace
+  const isQueryEmpty = !query.trim();
 
   return (
     <form onSubmit={handleSubmit}>
-      <div>
+      <div className="input-container">
         <textarea
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Enter your query here..."
+          placeholder="How do I evade taxes in Germany as much as possible? Given that..."
           rows={4}
         />
+        <div className="controls">
+          <select 
+            value={mode} 
+            onChange={(e) => setMode(e.target.value)}
+          >
+            {Object.entries(modeDescriptions).map(([value, description]) => (
+              <option key={value} value={value}>
+                {value.charAt(0).toUpperCase() + value.slice(1)}
+              </option>
+            ))}
+          </select>
+          <div className="tooltip-container">
+            <span className="help-icon" data-tooltip={modeDescriptions[mode as keyof typeof modeDescriptions]}>?</span>
+          </div>
+          <button type="submit" disabled={isLoading || isQueryEmpty}>
+            {isLoading ? "..." : "Submit"}
+          </button>
+        </div>
       </div>
-      <div>
-        <input
-          type="file"
-          onChange={(e) => setFile(e.target.files ? e.target.files[0] : null)}
-        />
-      </div>
-      <div>
-        <select 
-          value={mode} 
-          onChange={(e) => setMode(e.target.value)}
-        >
-          <option value="naive">Naive</option>
-          <option value="local">Local</option>
-          <option value="global">Global</option>
-          <option value="hybrid">Hybrid</option>
-        </select>
-      </div>
-      <button type="submit">Submit</button>
     </form>
   );
 };
